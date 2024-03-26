@@ -31,33 +31,38 @@ No primeiro semestre de 2022, em parceiria com a FATEC, desenvolvemos um website
 Um dos pontos chave desse projeto foi fornecer uma gama de vagas de emprego. Para isso, utilizamos a raspagem de dados para coletarmos essas informações em outros meios digitais e utilizalos no site desenvolvido.
 
 <br>
-  <h4 align="center"><br><a href="https://youtu.be/tYYEdszhfYs">Youtube (Qualidade melhor)</a></h4>
+  <h4 align="center"><br><a href="https://www.youtube.com/watch?v=vAR8DCsnbfE">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
     <img src="/readme/2022-1/gif_localizacao_pagweb.gif" width="65%" />
 </p>
 
 <br>
-  <h4 align="center"><br><a href="https://youtu.be/tYYEdszhfYs">Youtube (Qualidade melhor)</a></h4>
+  <h4 align="center"><br><a href="https://youtu.be/MpbO26x4V6s">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
     <img src="/readme/2022-1/cursos-botao.gif" width="65%" />
 </p>
 
 <br>
-  <h4 align="center"><br><a href="https://youtu.be/tYYEdszhfYs">Youtube (Qualidade melhor)</a></h4>
+  <h4 align="center"><br><a href="https://youtu.be/GsF3vHnyO84">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
     <img src="/readme/2022-1/graficos_parte1.gif" width="65%" />
 </p>
 
 <br>
-  <h4 align="center"><br><a href="https://youtu.be/tYYEdszhfYs">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
     <img src="/readme/2022-1/graficos_parte2.gif" width="65%" />
 </p>
 
 <br>
-  <h4 align="center"><br><a href="https://youtu.be/tYYEdszhfYs">Youtube (Qualidade melhor)</a></h4>
+  <h4 align="center"><br><a href="https://youtu.be/iMzZy33cA94">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
     <img src="/readme/2022-1/contatos.gif" width="65%" />
+</p>
+<br>
+
+  <h4 align="center"><br><a href="https://youtu.be/vKMSfNvmp7g">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/readme/2022-1/raspagem.gif" width="65%" />
 </p>
 <br>
 
