@@ -1,15 +1,13 @@
 # Camila Silveira Redondo
 
 ## Introdução
+<img src='/readme/camila3.jpeg' width="15%" />
 
 Me considero uma profissional apaixonada por desafios e aprendizado. Iniciei minha jornada acadêmica com uma formação em Licenciatura em Matemática pelo Instituto Federal de São José dos Campos. Contudo, minha curiosidade e interesse por tecnologia me levaram a uma transição de carreira para a área de Tecnologia da Informação.
 
 Após concluir minha primeira graduação, decidi ingressar no curso de Análise e Desenvolvimento de Sistemas na Fatec - São José dos Campos. Durante esse período, além de mergulhar nos estudos, busquei oportunidades de crescimento participando ativamente de atividades extracurriculares. Destaco meu envolvimento em maratonas de programação tanto internas da faculdade quanto promovidas pela Sociedade Brasileira de Computação. O reconhecimento do meu esforço veio em 2023, quando conquistei o primeiro lugar em uma dessas maratonas entre todas as FATECs do estado de São Paulo.
 
 Essa conquista não só me encheu de orgulho, mas também abriu portas para minha entrada no mercado de trabalho. Atualmente, estou estagiando na Geopixel, uma empresa de tecnologia focada em automatizar processos municipais. Na equipe de desenvolvimento mobile, tenho a oportunidade de aplicar meus conhecimentos e habilidades, trabalhando com tecnologias como JavaScript, Vue.js, PostgreSQL, entre outras. Além disso, tive a chance de explorar o universo do React e TypeScript, ampliando meu repertório profissional.
-
-
-Foto
 
 ## Contatos
 * [GIT](https://github.com/CamilaRedondo)
@@ -32,9 +30,38 @@ No primeiro semestre de 2022, em parceiria com a FATEC, desenvolvemos um website
 
 Um dos pontos chave desse projeto foi fornecer uma gama de vagas de emprego. Para isso, utilizamos a raspagem de dados para coletarmos essas informações em outros meios digitais e utilizalos no site desenvolvido.
 
+<br>
+  <h4 align="center"><br><a href="https://youtu.be/tYYEdszhfYs">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/readme/2022-1/gif_localizacao_pagweb.gif" width="65%" />
+</p>
 
-Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+<br>
+  <h4 align="center"><br><a href="https://youtu.be/tYYEdszhfYs">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/readme/2022-1/cursos-botao.gif" width="65%" />
+</p>
 
+<br>
+  <h4 align="center"><br><a href="https://youtu.be/tYYEdszhfYs">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/readme/2022-1/graficos_parte1.gif" width="65%" />
+</p>
+
+<br>
+  <h4 align="center"><br><a href="https://youtu.be/tYYEdszhfYs">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/readme/2022-1/graficos_parte2.gif" width="65%" />
+</p>
+
+<br>
+  <h4 align="center"><br><a href="https://youtu.be/tYYEdszhfYs">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/readme/2022-1/contatos.gif" width="65%" />
+</p>
+<br>
+
+Para mais informações:
 [GIT](https://github.com/CamilaRedondo/API-FATEC)
 
 #### Tecnologias Utilizadas
@@ -58,16 +85,17 @@ Além da função de Scrum Master, também pude desenvolver parte do projeto com
 Por fim, também pude acompanhar e auxiliar o trabalho de um colega de equipe no desenvolvimento da lógica desenvolvida em Python para realizar a raspagem de dados.
 
 #### Hard Skills
-HTML5 - Sei estruturar semanticamente páginas web com autonomia;
-CSS3 - Sei fazer estilização de páginas web com autonomia;
-Java Scrip - Sei fazer com autonomia a manipulação do DOM e desenvolver lógica;
-Python - Sei desenvolver lógica com autonomia;
-SQL - Sei fazer com autonomia um CRUD (acrônimo em inglês que se refere às operações básicas de manipulação de dados em sistemas de banco de dados).
+* HTML5 - Sei estruturar semanticamente páginas web com autonomia;
+* CSS3 - Sei fazer estilização de páginas web com autonomia;
+* Java Scrip - Sei fazer com autonomia a manipulação do DOM e desenvolver lógica;
+* Python - Sei desenvolver lógica com autonomia;
+* SQL - Sei fazer com autonomia um CRUD (acrônimo em inglês que se refere às operações básicas de manipulação de dados em sistemas de banco de dados).
 
 #### Soft Skills
-Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais para apurar o andamento da equipe.
-Organização - Precisei exercitar minhas habilidades de organização para acompanhar o desenvolvimento da equipe de forma a visualizar todo o processo.
-Liderança - Precisei exercitar minhas habilidades de liderança para direcionar a equipe de modo a fazer o grupo entregar tudo que foi proposto nas sprints.
+* Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões diarias feita com a equipe para acompanhar o desenvolvimento das atividades. Assim como, precisei utilizar a comunicação para as reuniões semanais com o responsável pelo Scrum Master para relatar dificuldades e informar o andamento do projeto.
+* Organização - Precisei exercitar minhas habilidades de organização para registrar e acompanhar o desenvolvimento da equipe de forma a conseguir visualizar todo o processo.
+* Liderança - Precisei exercitar minhas habilidades de liderança para direcionar a equipe de modo a fazer o grupo entregar tudo que foi proposto nas sprints. Além fisso, precisei utilizar essa soft skill para gerenciar conflitos e buscar soluções.
+* Resiliência - Precisei exercitar minha habilidade de resiliência, pois em diferentes momentos desenvolvendo o código 
 
 ### Em 2022-2
 Mesmo formato
