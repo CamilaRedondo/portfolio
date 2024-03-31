@@ -86,24 +86,30 @@ Para mais informações:
 * Figma
 
 #### Contribuições Pessoais
-No desenvolvimento desse projeto, pude contribuir atuando como Scrum Master da equipe, gerenciando e monitorando o desenvolvimento do time. Para realizar meu papel de Scrum Master, utilizei o Excel para plotar o burndown (ferramenta visual usada para rastrear o progresso de uma equipe em relação à conclusão de um conjunto de tarefas de uma sprint), assim como utilizamos o Trello para acompanhar o progresso de tarefas durante um sprint.
+No desenvolvimento desse projeto, pude contribuir atuando como Scrum Master da equipe, gerenciando e monitorando o desenvolvimento do time. Para desempenhar meu papel de Scrum Master, utilizei o Excel para traçar o burndown (ferramenta visual usada para rastrear o progresso de uma equipe em relação à conclusão de um conjunto de tarefas de uma sprint), além de utilizarmos o Trello para acompanhar o progresso das tarefas durante a sprint.
 
-Além da função de Scrum Master, também pude desenvolver parte do projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento da tela de apresentação das métricas do site. Desenvolvi a interface utilizando HTML5 e CSS3. Para apresentar as métricas, utilizei a biblioteca JavaScript Charts.js, onde desenvolvi a lógica e manipulei informações coletadas do nosso banco de dados para exibir informações como quantidade de vagas disponíveis no site por subáreas dentro da área de T.I.
+Além da função de Scrum Master, também pude desenvolver parte do projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento da tela de apresentação das métricas do site. Desenvolvi a interface utilizando HTML5 e CSS3. Para apresentar as métricas, utilizei a biblioteca JavaScript Charts.js, onde desenvolvi a lógica e manipulei as informações coletadas do nosso banco de dados para exibir informações relevantes para o cliente. Apresentamos um gráfico de pizza exibindo a quantidade de vagas e a quantidade de vagas na área de T.I., além de um gráfico de barras que exibe a quantidade de vagas por subáreas.
 
-Por fim, também pude acompanhar e auxiliar o trabalho de um colega de equipe no desenvolvimento da lógica em Python para realizar a raspagem de dados.
+Por fim, também pude acompanhar e auxiliar o trabalho de um colega de equipe no desenvolvimento da lógica em Python para realizar a raspagem de dados. Para isso, criamos um web crawler simples para coletar dados do site www.vagas.com.br. No código, utilizamos a biblioteca 'requests' para fazer solicitações HTTP para obter o conteúdo das páginas web, no caso, vagas de emprego. Utilizamos a biblioteca 'BeautifulSoup' para extrair informações relevantes do HTML retornado pelas solicitações HTTP, como títulos de vagas, empresas que fornecem as vagas, descrições das oportunidades de emprego, etc. Para concluir, utilizamos a biblioteca 'json' para armazenar as informações coletadas em um arquivo JSON.
+
+[Código - Web Crawler / vagas de emprego](https://github.com/henriqFerreira/API-FATEC-1-SEM/blob/main/web-crawler/vagas-ti/app.py)
+
+Observação: Realizamos esse mesmo processo para coletar informações sobre os cursos que também são ofertados no site desenvolvido. No entanto, as informações sobre os cursos foram coletadas do site www.sebrae.com.br. 
+
+[Código - Web Crawler / cursos profissionalizantes](https://github.com/henriqFerreira/API-FATEC-1-SEM/blob/main/web-crawler/cursos/app.py)
 
 #### Hard Skills
-* HTML5 - Sei estruturar semanticamente páginas web com autonomia;
-* CSS3 - Sei fazer estilização de páginas web com autonomia;
-* Java Scrip - Sei fazer com autonomia a manipulação do DOM e desenvolver lógica;
-* Python - Sei desenvolver lógica com autonomia;
-* SQL - Sei fazer com autonomia um CRUD (acrônimo em inglês que se refere às operações básicas de manipulação de dados em sistemas de banco de dados).
+* HTML5 - Possuo autonomia para estruturar semanticamente páginas web.
+* CSS3 - Tenho autonomia para estilizar páginas web.
+* JavaScript - Possuo autonomia para manipular o DOM e desenvolver lógica.
+* Python - Tenho habilidade para desenvolver lógica com autonomia.
+* SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD).
 
 #### Soft Skills
-* Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões diarias feita com a equipe para acompanhar o desenvolvimento das atividades. Assim como, precisei utilizar a comunicação para as reuniões semanais com o responsável pelo Scrum Master para relatar dificuldades e informar o andamento do projeto.
-* Organização - Precisei exercitar minhas habilidades de organização para registrar e acompanhar o desenvolvimento da equipe de forma a conseguir visualizar todo o processo.
-* Liderança - Precisei exercitar minhas habilidades de liderança para direcionar a equipe de modo a fazer o grupo entregar tudo que foi proposto nas sprints. Além fisso, precisei utilizar essa soft skill para gerenciar conflitos e buscar soluções.
-* Resiliência - Precisei exercitar minha habilidade de resiliência, pois em diferentes momentos desenvolvendo o código encontrei muitos desafios e dificuldades. Com persistência e resiliência, pude superar todos esses percalços.
+* Comunicação - Exercitei minhas habilidades de comunicação ao conduzir reuniões diárias com a equipe para acompanhar o desenvolvimento das atividades. Além disso, utilizei a comunicação eficazmente durante as reuniões semanais com o responsável pelo Scrum Master para relatar dificuldades e informar o andamento do projeto.
+* Organização - Exercitei minhas habilidades de organização ao registrar e acompanhar o desenvolvimento da equipe, garantindo uma visão clara de todo o processo.
+* Liderança - Demonstrei habilidades de liderança ao direcionar a equipe para cumprir as metas estabelecidas nas sprints. Além disso, utilizei essa habilidade para gerenciar conflitos e buscar soluções eficazes.
+* Resiliência - Exercitei minha habilidade de resiliência ao enfrentar desafios e dificuldades durante o desenvolvimento do código. Com persistência e resiliência, superei todos os obstáculos encontrados.
 
 ### Em 2022-2
 Mesmo formato
