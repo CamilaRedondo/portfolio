@@ -112,7 +112,41 @@ Observação: Realizamos esse mesmo processo para coletar informações sobre os
 * Resiliência - Exercitei minha habilidade de resiliência ao enfrentar desafios e dificuldades durante o desenvolvimento do código. Com persistência e resiliência, superei todos os obstáculos encontrados.
 
 ### Em 2022-2
-Mesmo formato
+No segundo semestre de 2022, estabelecemos uma parceria com a empresa Trackcash, especializada em serviços de conciliação financeira voltados para e-commerces, marketplaces e estabelecimentos físicos.
+
+Nesse contexto, fomos incumbidos de desenvolver um software desktop destinado a conceder acesso aos clientes da Trackcash a informações sobre suas vendas. O objetivo era proporcionar uma experiência intuitiva, fornecendo dados por meio de planilhas e dashboards, visando facilitar a formulação de estratégias financeiras mais precisas e identificar eventuais gargalos ao final de cada ciclo de vendas.
+
+Um dos aspectos fundamentais deste projeto residia no sistema de login e cadastro. Isso porque, durante o processo de registro, era importante incluir detalhes específicos, como o nome do canal de vendas (exemplo: Mercado Livre, Americanas), o tipo de canal (como Marketplace ou meio de pagamentos) e o padrão de autenticação utilizado (seja por meio de usuário/senha ou Token). Para cumprir esses requisitos, dedicamos especial atenção à modelagem e desenvolvimento do banco de dados, assegurando que todas as demandas da Trackcash fossem atendidas de maneira eficaz.
+
+Observação: É importante ressaltar que, neste projeto, os clientes também são identificados como canais.
+
+Para mais informações:
+[GIT](https://github.com/CamilaRedondo/API-FATEC-2-SEM)
+
+#### Tecnologias Utilizadas
+* Java
+* JavaFX
+* SQL
+* MYSQL
+* Github
+* Figma
+
+#### Contribuições Pessoais
+No desenvolvimento desse projeto, pude contribuir atuando como Scrum Master da equipe, gerenciando e monitorando o desenvolvimento do time. Para desempenhar meu papel de Scrum Master, utilizei o Excel para traçar o burndown (ferramenta visual usada para rastrear o progresso de uma equipe em relação à conclusão de um conjunto de tarefas de uma sprint), além de utilizarmos o Trello para acompanhar o progresso das tarefas durante a sprint.
+
+Além da função de Scrum Master, também pude desenvolver parte do projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento das interfaces graficas utilizando o SceneBuilder (uma ferramenta gráfica de design e layout fornecida pela Oracle para o desenvolvimento de interfaces de usuário em JavaFX). ALém disso pude participar da modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados.
+
+#### Hard Skills
+* Java - Possuo autonomia para desenvolver o back-end utilizando a linguagem e conceitos de programação orientada a objetos (POO).
+* JavaFX - Tenho autonomia para desenvolver interfaces gráficas de usuário (GUIs).
+* SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD).
+
+#### Soft Skills
+* Comunicação - Exercitei minhas habilidades de comunicação ao conduzir reuniões diárias com a equipe para acompanhar o desenvolvimento das atividades. Além disso, utilizei a comunicação eficazmente durante as reuniões semanais com o responsável pelo Scrum Master para relatar dificuldades e informar o andamento do projeto.
+* Organização - Exercitei minhas habilidades de organização ao registrar e acompanhar o desenvolvimento da equipe, garantindo uma visão clara de todo o processo.
+* Liderança - Demonstrei habilidades de liderança ao direcionar a equipe para cumprir as metas estabelecidas nas sprints. Além disso, utilizei essa habilidade para gerenciar conflitos e buscar soluções eficazes.
+* Resiliência - Exercitei minha habilidade de resiliência ao enfrentar desafios e dificuldades durante o desenvolvimento do código. Com persistência e resiliência, superei todos os obstáculos encontrados.
+
 
 ### Em 2023-1
 Mesmo formato
