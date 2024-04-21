@@ -12,7 +12,7 @@ Após concluir minha primeira graduação, decidi ingressar no curso de Análise
 Essa conquista não só me encheu de orgulho, mas também abriu portas para minha entrada no mercado de trabalho. Atualmente, estou estagiando na Geopixel, uma empresa de tecnologia focada em automatizar processos municipais. Na equipe de desenvolvimento mobile, tenho a oportunidade de aplicar meus conhecimentos e habilidades, trabalhando com tecnologias como JavaScript, Vue.js, PostgreSQL, entre outras. Além disso, tive a chance de explorar o universo do React e TypeScript, ampliando meu repertório profissional.
 
 ## Contatos
-* [GIT](https://github.com/CamilaRedondo)
+* [GITHUB](https://github.com/CamilaRedondo)
 * [LinkedIn](https://www.linkedin.com/in/camila-silveira-redondo/)
 
 ## Meus Principais Conhecimentos
@@ -70,7 +70,7 @@ Um dos pontos chave desse projeto foi fornecer uma gama de vagas de emprego. Par
 <br>
 
 Para mais informações:
-[GIT](https://github.com/CamilaRedondo/API-FATEC)
+[GITHUB](https://github.com/CamilaRedondo/API-FATEC)
 
 #### Tecnologias Utilizadas
 * HTML5
@@ -140,7 +140,7 @@ Observação: É importante ressaltar que, neste projeto, os clientes também s�
 <br>
 
 Para mais informações:
-[GIT](https://github.com/CamilaRedondo/API-FATEC-2-SEM)
+[GITHUB](https://github.com/CamilaRedondo/API-FATEC-2-SEM)
 
 #### Tecnologias Utilizadas
 * Java
@@ -205,7 +205,7 @@ Optamos por empregar bancos de dados relacionais para garantir a consistência e
 <br>
 
 Para mais informações:
-[GIT](https://github.com/CamilaRedondo/API-FATEC-3-SEM/tree/Development?tab=readme-ov-file)
+[GITHUB](https://github.com/CamilaRedondo/API-FATEC-3-SEM/tree/Development?tab=readme-ov-file)
 
 #### Tecnologias Utilizadas
 * React
