@@ -18,7 +18,7 @@ Essa conquista não só me encheu de orgulho, mas também abriu portas para minh
 ## Meus Principais Conhecimentos
 * HTML5
 * CSS3
-* Java Scrip
+* Java Script
 * React
 * Vue.JS
 * Java
