@@ -139,7 +139,6 @@ Observação: É importante ressaltar que, neste projeto, os clientes também s�
 </p>
 <br>
 
-
 Para mais informações:
 [GIT](https://github.com/CamilaRedondo/API-FATEC-2-SEM)
 
@@ -192,7 +191,60 @@ Além da função de Scrum Master, também pude desenvolver parte do projeto com
 
 
 ### Em 2023-1
-Mesmo formato
+No primeiro semestre de 2023, estabelecemos uma parceria com a empresa Visiona. Como parte dessa colaboração, fomos encarregados de conceber e implementar um sistema de Gerenciamento de Usuário, adotando uma abordagem de arquitetura de micro serviços.
+
+O objetivo principal deste projeto consistiu em desenvolver uma aplicação web escalável, fundamentado em microsserviços e dotada de um dashboard intuitivo. Essa plataforma visava oferecer aos usuários funcionalidades essenciais, como a criação, visualização, edição e remoção de perfis de usuário.
+
+Optamos por empregar bancos de dados relacionais para garantir a consistência e a confiabilidade dos dados manipulados pela aplicação.
+
+<br>
+  <h4 align="center"><br><a href="https://www.youtube.com/watch?v=wU2duyaZ-yg">Youtube (Qualidade melhor)</a></h4>
+  <p align="center">
+    <img src="/readme/2022-3/login_dashboard.gif" width="60%" />
+</p>
+<br>
+
+Para mais informações:
+[GIT](https://github.com/CamilaRedondo/API-FATEC-3-SEM/tree/Development?tab=readme-ov-file)
+
+#### Tecnologias Utilizadas
+* React
+* NodeJS
+* SQL
+* Postgres
+* Docker
+* Github
+* Figma
+
+#### Contribuições Pessoais
+No desenvolvimento desse projeto, pude contribuir atuando como Scrum Master da equipe, gerenciando e monitorando o desenvolvimento do time. Para desempenhar meu papel de Scrum Master, utilizei o Excel para traçar o burndown (ferramenta visual usada para rastrear o progresso de uma equipe em relação à conclusão de um conjunto de tarefas de uma sprint), além de utilizarmos o Trello para acompanhar o progresso das tarefas durante a sprint.
+
+Além da função de Scrum Master, também pude desenvolver parte do projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento do wireframe utilizando o figma. Nessa etapa inicial, pude auxiliar meu colega de equipe no desenvolvimento do desing das interfaces. Aprendendo a manusar de maneira eficientea a ferramenta. Além disso pude contribuir criando alguns componentes utilizados em algumas páginas, aprendendo e conhecendo melhor a biblioteca React. 
+
+Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados.
+
+<br>
+  <h3 align="center">Modelo de dados relacional</h3>
+  <h4 align="center">Modelo conceitual<br></h4>
+  <p align="center">
+    <img src="/readme/2022-3/modeloConceitual_BD.png" width="65%" />
+</p>
+  <p align="justify">A princípio foram identificadas as seguintes entidades: <i>User</i> e <i>Profile</i>. A entidade <i>User</i> contêm informações sobre os usuários do sistema com os atributos <i>ID</i> chave primária da tabela; <i>fullName</i>; <i>userName</i>; <i>cpf</i> chave única; <i>email</i>; <i>password</i>; <i>active</i>; <i>createDate</i>; <i>lastUpdate</i>. A entidade <i>Profile</i> abriga informações relativas aos perfis dos usuários, diferenciando os tipos de usuários (p.ex. Administrador e Usuários) através do atributo <i>type</i> para atribuir permissões relativas a cada classificação de perfil.Essa entidade é composta pelos atributos <i>ID</i> que é a chave primária; <i>userID</i> chave estrangeira da tabela <i>Users</i>; e <i>type</i>.</p>
+
+  <br>
+  <h4 align="center">Modelo lógico<br></h4>
+  <p align="center">
+    <img src="/readme/2022-3/modeloLogico_BD.png" width="65%" />
+  </p>
+  <p align="justify">O modelo de dados lógico é caracterizado pelas entidades: <i>User</i> e <i>Profile</i>. A entidade <i>User</i> contêm os seguintes atributos: <i>ID</i> (chave primária) do tipo inteiro, <i>fullName</i> do tipo baseado em caracteres, <i>userName</i> do tipo baseado em caracteres, <i>cpf</i> do tipo baseado em caracteres, <i>email</i> do tipo baseado em caracteres, <i>password</i> do tipo baseado em caracteres, <i>active</i> do tipo booleano, <i>createdDate</i> do tipo dateTime e <i>lastUpdate</i> do tipo dateTime. A entidade <i>Profile</i> contêm os seguintes atributos: <i>ID</i> (chave primária) do tipo inteiro, <i>userID</i> (chave extrangeira) do tipo baseado em caracteres e <i>type</i> do tipo TinyInt. </p>
+    <p align="justify">As relações entre as entidades são todas do tipo <b>1:1</b>, onde:</p>
+    <br>
+    
+#### Soft Skills
+* Comunicação - Exercitei minhas habilidades de comunicação ao conduzir reuniões diárias com a equipe para acompanhar o desenvolvimento das atividades. Além disso, utilizei a comunicação eficazmente durante as reuniões semanais com o responsável pelo Scrum Master para relatar dificuldades e informar o andamento do projeto.
+* Organização - Exercitei minhas habilidades de organização ao registrar e acompanhar o desenvolvimento da equipe, garantindo uma visão clara de todo o processo.
+* Liderança - Demonstrei habilidades de liderança ao direcionar a equipe para cumprir as metas estabelecidas nas sprints. Além disso, utilizei essa habilidade para gerenciar conflitos e buscar soluções eficazes.
+* Resiliência - Exercitei minha habilidade de resiliência ao enfrentar desafios e dificuldades durante o desenvolvimento do código. Com persistência e resiliência, superei todos os obstáculos encontrados.
 
 ### Em 2023-2
 Mesmo formato
