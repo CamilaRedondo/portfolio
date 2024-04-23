@@ -238,6 +238,13 @@ Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento
   <p align="justify">O modelo de dados lógico é caracterizado pelas entidades: <i>User</i> e <i>Profile</i>. A entidade <i>User</i> contêm os seguintes atributos: <i>ID</i> (chave primária) do tipo inteiro, <i>fullName</i> do tipo baseado em caracteres, <i>userName</i> do tipo baseado em caracteres, <i>cpf</i> do tipo baseado em caracteres, <i>email</i> do tipo baseado em caracteres, <i>password</i> do tipo baseado em caracteres, <i>active</i> do tipo booleano, <i>createdDate</i> do tipo dateTime e <i>lastUpdate</i> do tipo dateTime. A entidade <i>Profile</i> contêm os seguintes atributos: <i>ID</i> (chave primária) do tipo inteiro, <i>userID</i> (chave extrangeira) do tipo baseado em caracteres e <i>type</i> do tipo TinyInt. </p>
     <p align="justify">As relações entre as entidades são todas do tipo <b>1:1</b>, onde:</p>
     <br>
+
+#### Hard Skills
+* React - Possuo autonomia para desenvolver o frontend componentizado.
+* NodeJS - Tenho autonomia para desenvolver o backend utilizando NodeJS.
+* Docker - Possuo o conceito de manipulação de docker.
+* Figma - Tenho habilidade para desenvolver um wireframe/protótipo de projetos utilizando a ferramenta.
+* SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD) e também capacidade de modelar um banco de dados.
     
 #### Soft Skills
 * Comunicação - Participar ativamente da equipe de desenvolvimento enquanto desempenhava o papel de Scrum Master me proporcionou oportunidades únicas para aprimorar minhas habilidades de comunicação. Conduzir as reuniões diárias e participar das reuniões semanais com o professor responsável exigiu uma comunicação clara e concisa. Por exemplo, em uma reunião semanal, destaquei os desafios técnicos específicos que nossa equipe estava enfrentando e propus soluções colaborativas que envolviam tanto o desenvolvimento do código quanto a organização das tarefas.
@@ -246,7 +253,37 @@ Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento
 * Resiliência - Exercitei minha habilidade de resiliência ao enfrentar desafios e dificuldades durante o desenvolvimento do código. Com persistência e resiliência, superei todos os obstáculos encontrados.
 
 ### Em 2023-2
-Mesmo formato
+No segundo semestre de 2023, iniciamos um projeto em parceria com a Greenneat, uma plataforma dedicada à economia circular, com foco na coleta e reciclagem de óleo de cozinha. 
+
+Desenvolvemos uma plataforma online que permite aos parceiros coletarem óleo de estabelecimentos e revendê-lo à Greenneat, recebendo créditos em troca. Esses créditos podem ser usados para adquirir saneantes disponíveis no site da Greenneat. Os parceiros têm acesso a um painel para acompanhar suas transações, enquanto os estabelecimentos monitoram suas compras e saldos de crédito. O administrador controla a plataforma e tem acesso a um dashboard com informações relevantes, como desempenho de descarte e participação na economia circular.
+
+Para mais informações:
+[GITHUB](https://github.com/CamilaRedondo/API-FATEC-4-SEM)
+
+#### Tecnologias Utilizadas
+* React
+* NodeJS
+* SQL
+* SQLite
+* Github
+* Figma
+
+#### Contribuições Pessoais
+No decorrer deste projeto, exerci o papel de Product Owner, sendo responsável por definir e priorizar as funcionalidades do sistema em conjunto com o cliente. Precisei garantir uma comunicação clara das necessidades da Greenneat fornecendo orientações constantes para a equipe de desenvolvimento de forma a alinhas os objetivos do produto. Utilizei ferramentas como o Excel para criar e atualizar o Product Backlog, onde listei e priorizei as histórias de usuário.
+
+Também participei da equipe de desenvolvimento, ficando responsável pela modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados. Além disso auxiliei no desenvolvimento do wireframe, utilizando a ferramenta FIGMA e tambem desenvolvendo o frontend de algumas telas.
+
+#### Hard Skills
+* React - Possuo autonomia para desenvolver o frontend componentizado.
+* NodeJS - Tenho autonomia para desenvolver o backend utilizando NodeJS.
+* Figma - Tenho habilidade para desenvolver um wireframe/protótipo de projetos utilizando a ferramenta.
+* SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD) e também capacidade de modelar um banco de dados.
+    
+#### Soft Skills
+* Comunicação - Como Product Owner, aprimorei minhas habilidades de comunicação ao trabalhar com a equipe de desenvolvimento. Durante as reuniões de refinamento de backlog, busquei levar de maneira clara os requisitos do cliente e esclarecer quaisquer dúvidas que surgiram durante o processo. Além disso, tentei manter uma comunicação aberta e transparente com os cliente.
+* Organização - A organização foi fundamental para o meu papel como Product Owner, pois fui responsável por gerenciar o backlog do produto e priorizar as funcionalidades com base nas necessidades do cliente e nos objetivos do negócio.
+* Liderança - Como líder do projeto do ponto de vista do negócio, exerci a liderança ao definir uma visão clara para o produto e inspirar a equipe a trabalhar em direção a esse objetivo.
+* Resiliência - Enfrentar mudanças nos requisitos do cliente e responder a imprevistos durante o desenvolvimento do projeto exigiu uma resiliência significativa da minha parte. Além de me manter firme frente as constantes ausencias do cliente nas respostas de perguntas elaboradas pela equipe.
 
 ### Em 2024-1
 Mesmo formato
