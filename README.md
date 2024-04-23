@@ -106,10 +106,10 @@ Observação: Realizamos esse mesmo processo para coletar informações sobre os
 * SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD).
 
 #### Soft Skills
-* Comunicação - Exercitei minhas habilidades de comunicação ao conduzir reuniões diárias com a equipe para acompanhar o desenvolvimento das atividades. Além disso, utilizei a comunicação eficazmente durante as reuniões semanais com o responsável pelo Scrum Master para relatar dificuldades e informar o andamento do projeto.
-* Organização - Exercitei minhas habilidades de organização ao registrar e acompanhar o desenvolvimento da equipe, garantindo uma visão clara de todo o processo.
-* Liderança - Demonstrei habilidades de liderança ao direcionar a equipe para cumprir as metas estabelecidas nas sprints. Além disso, utilizei essa habilidade para gerenciar conflitos e buscar soluções eficazes.
-* Resiliência - Exercitei minha habilidade de resiliência ao enfrentar desafios e dificuldades durante o desenvolvimento do código. Com persistência e resiliência, superei todos os obstáculos encontrados.
+* Comunicação - Como Scrum Master e membro da equipe de desenvolvimento, fortaleci minhas habilidades de comunicação ao liderar as reuniões diárias, mantendo todos atualizados sobre o progresso das tarefas. Além disso, durante as reuniões semanais com o professor respposável pelos Scruns Master, comuniquei eficazmente os desafios enfrentados pela equipe de desenvolvimento. 
+* Organização - No contexto de desafios enfrentados como membro da equipe de desenvolvimento, aprimorei minhas habilidades organizacionais ao manter registros detalhados do progresso das tarefas e garantir uma visão clara do trabalho a ser realizado.
+* Liderança - No papel de Scrum Master e membro da equipe de desenvolvimento, demonstrei liderança ao orientar proativamente a equipe na consecução das metas estabelecidas em cada sprint.
+* Resiliência - Como parte integrante da equipe de desenvolvimento e Scrum Master, enfrentei desafios técnicos e operacionais com resiliência e determinação.
 
 ### Em 2022-2
 No segundo semestre de 2022, estabelecemos uma parceria com a empresa Trackcash, especializada em serviços de conciliação financeira voltados para e-commerces, marketplaces e estabelecimentos físicos.
@@ -151,9 +151,8 @@ Para mais informações:
 * Figma
 
 #### Contribuições Pessoais
-No desenvolvimento desse projeto, pude contribuir atuando como Scrum Master da equipe, gerenciando e monitorando o desenvolvimento do time. Para desempenhar meu papel de Scrum Master, utilizei o Excel para traçar o burndown (ferramenta visual usada para rastrear o progresso de uma equipe em relação à conclusão de um conjunto de tarefas de uma sprint), além de utilizarmos o Trello para acompanhar o progresso das tarefas durante a sprint.
+No desenvolvimento desse projeto, pude contribuir com o projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento das interfaces graficas utilizando o SceneBuilder (uma ferramenta gráfica de design e layout fornecida pela Oracle para o desenvolvimento de interfaces de usuário em JavaFX). ALém disso pude participar da modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados.
 
-Além da função de Scrum Master, também pude desenvolver parte do projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento das interfaces graficas utilizando o SceneBuilder (uma ferramenta gráfica de design e layout fornecida pela Oracle para o desenvolvimento de interfaces de usuário em JavaFX). ALém disso pude participar da modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados.
 
 <br>
   <h3 align="center">Modelo de dados relacional</h3>
@@ -184,10 +183,10 @@ Além da função de Scrum Master, também pude desenvolver parte do projeto com
 * SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD).
 
 #### Soft Skills
-* Comunicação - Exercitei minhas habilidades de comunicação ao conduzir reuniões diárias com a equipe para acompanhar o desenvolvimento das atividades. Além disso, utilizei a comunicação eficazmente durante as reuniões semanais com o responsável pelo Scrum Master para relatar dificuldades e informar o andamento do projeto.
-* Organização - Exercitei minhas habilidades de organização ao registrar e acompanhar o desenvolvimento da equipe, garantindo uma visão clara de todo o processo.
-* Liderança - Demonstrei habilidades de liderança ao direcionar a equipe para cumprir as metas estabelecidas nas sprints. Além disso, utilizei essa habilidade para gerenciar conflitos e buscar soluções eficazes.
-* Resiliência - Exercitei minha habilidade de resiliência ao enfrentar desafios e dificuldades durante o desenvolvimento do código. Com persistência e resiliência, superei todos os obstáculos encontrados.
+* Comunicação - Como parte da equipe de desenvolvimento, eu tive a oportunidade de aprimorar minhas habilidades de comunicação ao interagir com colegas mais experientes e compartilhar minhas ideias durante as reuniões diárias. Além disso, durante as sessões de revisão de código e planejamento, eu tive a chance de expressar minhas opiniões e contribuir para a discussão sobre as melhores abordagens para a implementação de funcionalidades. Por exemplo, em uma reunião de planejamento, eu sugeri uma abordagem para a implementação da interface usando JavaFX, o que foi bem recebido pela equipe e resultou em uma solução mais elegante e simples de ser desenvolvida.
+* Organização - Durante o desenvolvimento do projeto, eu tive a oportunidade de praticar minhas habilidades de organização ao planejar e priorizar minhas tarefas de acordo com os requisitos e prazos estabelecidos. Ao manter um cronograma claro e focado, eu conseguiu cumprir os objetivos da sprint e contribuir para o sucesso do projeto.
+* Liderança - Durante o desenvolvimento do projeto, eu tive a oportunidade de demonstrar minha liderança ao ao assumir a iniciativa e propor ideias inovadoras para melhorar o design do frontend ou a eficiência da modelagem do banco de dados.
+* Resiliência - Como aluna aprendendo e contribuindo para a equipe de desenvolvimento, eu tive a oportunidade de exercitar minha resiliência ao enfrentar curvas de aprendizado íngremes e desafios técnicos desconhecidos. 
 
 
 ### Em 2023-1
@@ -241,9 +240,9 @@ Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento
     <br>
     
 #### Soft Skills
-* Comunicação - Exercitei minhas habilidades de comunicação ao conduzir reuniões diárias com a equipe para acompanhar o desenvolvimento das atividades. Além disso, utilizei a comunicação eficazmente durante as reuniões semanais com o responsável pelo Scrum Master para relatar dificuldades e informar o andamento do projeto.
-* Organização - Exercitei minhas habilidades de organização ao registrar e acompanhar o desenvolvimento da equipe, garantindo uma visão clara de todo o processo.
-* Liderança - Demonstrei habilidades de liderança ao direcionar a equipe para cumprir as metas estabelecidas nas sprints. Além disso, utilizei essa habilidade para gerenciar conflitos e buscar soluções eficazes.
+* Comunicação - Participar ativamente da equipe de desenvolvimento enquanto desempenhava o papel de Scrum Master me proporcionou oportunidades únicas para aprimorar minhas habilidades de comunicação. Conduzir as reuniões diárias e participar das reuniões semanais com o professor responsável exigiu uma comunicação clara e concisa. Por exemplo, em uma reunião semanal, destaquei os desafios técnicos específicos que nossa equipe estava enfrentando e propus soluções colaborativas que envolviam tanto o desenvolvimento do código quanto a organização das tarefas.
+* Organização - Enquanto fazia parte da equipe de desenvolvimento e desempenhava o papel de Scrum Master, desenvolvi minhas habilidades organizacionais ao equilibrar as demandas de ambas as funções. Manter registros atualizados do progresso do projeto e coordenar as atividades da equipe exigiu uma abordagem organizada e proativa. Por exemplo, ao enfrentar uma sobrecarga de trabalho durante uma sprint, priorizei as tarefas com base nas necessidades do projeto e no cronograma estabelecido, garantindo uma entrega oportuna e de alta qualidade.
+* Liderança - Participar ativamente da equipe de desenvolvimento enquanto desempenhava o papel de Scrum Master me permitiu exercer liderança de maneira eficaz. Por exemplo, ao identificar uma queda na moral da equipe após uma sprint desafiadora, organizei uma sessão de brainstorming para coletar feedback e sugestões de melhoria.
 * Resiliência - Exercitei minha habilidade de resiliência ao enfrentar desafios e dificuldades durante o desenvolvimento do código. Com persistência e resiliência, superei todos os obstáculos encontrados.
 
 ### Em 2023-2
