@@ -151,7 +151,7 @@ Para mais informações:
 * Figma
 
 #### Contribuições Pessoais
-No desenvolvimento desse projeto, pude contribuir com o projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento das interfaces graficas utilizando o SceneBuilder (uma ferramenta gráfica de design e layout fornecida pela Oracle para o desenvolvimento de interfaces de usuário em JavaFX). ALém disso pude participar da modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados.
+No desenvolvimento desse projeto, pude contribuir como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento das interfaces graficas utilizando o SceneBuilder (uma ferramenta gráfica de design e layout fornecida pela Oracle para o desenvolvimento de interfaces de usuário em JavaFX). Também pude participar da modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados.
 
 
 <br>
@@ -184,13 +184,13 @@ No desenvolvimento desse projeto, pude contribuir com o projeto como membro da e
 
 #### Soft Skills
 * Comunicação - Como parte da equipe de desenvolvimento, eu tive a oportunidade de aprimorar minhas habilidades de comunicação ao interagir com colegas mais experientes e compartilhar minhas ideias durante as reuniões diárias. Além disso, durante as sessões de revisão de código e planejamento, eu tive a chance de expressar minhas opiniões e contribuir para a discussão sobre as melhores abordagens para a implementação de funcionalidades. Por exemplo, em uma reunião de planejamento, eu sugeri uma abordagem para a implementação da interface usando JavaFX, o que foi bem recebido pela equipe e resultou em uma solução mais elegante e simples de ser desenvolvida.
-* Organização - Durante o desenvolvimento do projeto, eu tive a oportunidade de praticar minhas habilidades de organização ao planejar e priorizar minhas tarefas de acordo com os requisitos e prazos estabelecidos. Ao manter um cronograma claro e focado, eu conseguiu cumprir os objetivos da sprint e contribuir para o sucesso do projeto.
+* Organização - Durante o desenvolvimento do projeto, eu tive a oportunidade de praticar minhas habilidades de organização ao planejar e priorizar minhas tarefas de acordo com os requisitos e prazos estabelecidos. Ao manter um cronograma claro e focado, eu consegui cumprir os objetivos da sprint e contribuir para o sucesso do projeto.
 * Liderança - Durante o desenvolvimento do projeto, eu tive a oportunidade de demonstrar minha liderança ao ao assumir a iniciativa e propor ideias inovadoras para melhorar o design do frontend ou a eficiência da modelagem do banco de dados.
-* Resiliência - Como aluna aprendendo e contribuindo para a equipe de desenvolvimento, eu tive a oportunidade de exercitar minha resiliência ao enfrentar curvas de aprendizado íngremes e desafios técnicos desconhecidos. 
+* Resiliência - Como aluna aprendendo e contribuindo com a equipe de desenvolvimento, eu tive a oportunidade de exercitar minha resiliência ao enfrentar curvas de aprendizado íngremes e desafios técnicos desconhecidos. 
 
 
 ### Em 2023-1
-No primeiro semestre de 2023, estabelecemos uma parceria com a empresa Visiona. Como parte dessa colaboração, fomos encarregados de conceber e implementar um sistema de Gerenciamento de Usuário, adotando uma abordagem de arquitetura de micro serviços.
+No primeiro semestre de 2023, estabelecemos uma parceria com a empresa Visiona. Como parte dessa colaboração, fomos encarregados de conceber e implementar um sistema de gerenciamento de usuário, adotando uma abordagem de arquitetura de micro serviços.
 
 O objetivo principal deste projeto consistiu em desenvolver uma aplicação web escalável, fundamentado em microsserviços e dotada de um dashboard intuitivo. Essa plataforma visava oferecer aos usuários funcionalidades essenciais, como a criação, visualização, edição e remoção de perfis de usuário.
 
@@ -218,7 +218,7 @@ Para mais informações:
 #### Contribuições Pessoais
 No desenvolvimento desse projeto, pude contribuir atuando como Scrum Master da equipe, gerenciando e monitorando o desenvolvimento do time. Para desempenhar meu papel de Scrum Master, utilizei o Excel para traçar o burndown (ferramenta visual usada para rastrear o progresso de uma equipe em relação à conclusão de um conjunto de tarefas de uma sprint), além de utilizarmos o Trello para acompanhar o progresso das tarefas durante a sprint.
 
-Além da função de Scrum Master, também pude desenvolver parte do projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento do wireframe utilizando o figma. Nessa etapa inicial, pude auxiliar meu colega de equipe no desenvolvimento do desing das interfaces. Aprendendo a manusar de maneira eficientea a ferramenta. Além disso pude contribuir criando alguns componentes utilizados em algumas páginas, aprendendo e conhecendo melhor a biblioteca React. 
+Além da função de Scrum Master, também pude desenvolver parte do projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento do wireframe utilizando o figma. Nessa etapa inicial, pude auxiliar meu colega de equipe no desenvolvimento do desing das interfaces, aprendendo a manusar de maneira eficientea a ferramenta. Além disso pude contribuir criando alguns componentes utilizados em algumas páginas, aprendendo e conhecendo melhor a biblioteca React. 
 
 Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados.
 
@@ -248,14 +248,14 @@ Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento
     
 #### Soft Skills
 * Comunicação - Participar ativamente da equipe de desenvolvimento enquanto desempenhava o papel de Scrum Master me proporcionou oportunidades únicas para aprimorar minhas habilidades de comunicação. Conduzir as reuniões diárias e participar das reuniões semanais com o professor responsável exigiu uma comunicação clara e concisa. Por exemplo, em uma reunião semanal, destaquei os desafios técnicos específicos que nossa equipe estava enfrentando e propus soluções colaborativas que envolviam tanto o desenvolvimento do código quanto a organização das tarefas.
-* Organização - Enquanto fazia parte da equipe de desenvolvimento e desempenhava o papel de Scrum Master, desenvolvi minhas habilidades organizacionais ao equilibrar as demandas de ambas as funções. Manter registros atualizados do progresso do projeto e coordenar as atividades da equipe exigiu uma abordagem organizada e proativa. Por exemplo, ao enfrentar uma sobrecarga de trabalho durante uma sprint, priorizei as tarefas com base nas necessidades do projeto e no cronograma estabelecido, garantindo uma entrega oportuna e de alta qualidade.
-* Liderança - Participar ativamente da equipe de desenvolvimento enquanto desempenhava o papel de Scrum Master me permitiu exercer liderança de maneira eficaz. Por exemplo, ao identificar uma queda na moral da equipe após uma sprint desafiadora, organizei uma sessão de brainstorming para coletar feedback e sugestões de melhoria.
+* Organização - Enquanto fazia parte da equipe de desenvolvimento e desempenhava o papel de Scrum Master, desenvolvi minhas habilidades organizacionais ao equilibrar as demandas de ambas as funções. Manter registros atualizados do progresso do projeto e coordenar as atividades da equipe exigiu uma abordagem organizada e proativa. Por exemplo, ao enfrentar uma sobrecarga de trabalho durante uma sprint, priorizei as tarefas com base nas necessidades do projeto e no cronograma estabelecido, garantindo uma entrega.
+* Liderança - Participar ativamente da equipe de desenvolvimento enquanto desempenhava o papel de Scrum Master me permitiu exercer liderança de maneira eficaz. Por exemplo, ao identificar uma queda na moral da equipe após uma sprint complicada, organizei uma sessão de brainstorming para coletar feedback e sugestões de melhoria.
 * Resiliência - Exercitei minha habilidade de resiliência ao enfrentar desafios e dificuldades durante o desenvolvimento do código. Com persistência e resiliência, superei todos os obstáculos encontrados.
 
 ### Em 2023-2
-No segundo semestre de 2023, iniciamos um projeto em parceria com a Greenneat, uma plataforma dedicada à economia circular, com foco na coleta e reciclagem de óleo de cozinha. 
+No segundo semestre de 2023, iniciamos um projeto em parceria com a Greenneat, uma plataforma dedicada à criar economia circular, com foco na coleta e reciclagem de óleo de cozinha. 
 
-Desenvolvemos uma plataforma online que permite aos parceiros coletarem óleo de estabelecimentos e revendê-lo à Greenneat, recebendo créditos em troca. Esses créditos podem ser usados para adquirir saneantes disponíveis no site da Greenneat. Os parceiros têm acesso a um painel para acompanhar suas transações, enquanto os estabelecimentos monitoram suas compras e saldos de crédito. O administrador controla a plataforma e tem acesso a um dashboard com informações relevantes, como desempenho de descarte e participação na economia circular.
+Desenvolvemos uma plataforma online que permite aos parceiros da empresa coletarem óleo de estabelecimentos e revendê-lo à Greenneat, recebendo créditos em troca. Esses créditos podem ser usados para adquirir saneantes fabricados pela Greenneat e fornecidos em seu site. Os parceiros tambem têm acesso a um painel para acompanhar suas transações, enquanto os estabelecimentos monitoram suas compras e saldos de crédito. O administrador controla a plataforma e tem acesso a um dashboard com informações relevantes, como desempenho de descarte e participação dos parceiros e estabelecimentos na economia circular.
 
   <p align="center">
     <img src="/readme/2023-2/cadastro.gif" width="65%" />
@@ -280,19 +280,19 @@ Para mais informações:
 #### Contribuições Pessoais
 No decorrer deste projeto, exerci o papel de Product Owner, sendo responsável por definir e priorizar as funcionalidades do sistema em conjunto com o cliente. Precisei garantir uma comunicação clara das necessidades da Greenneat fornecendo orientações constantes para a equipe de desenvolvimento de forma a alinhar os objetivos do produto. Utilizei ferramentas como o Excel para criar e atualizar o Product Backlog, onde listei e priorizei as histórias de usuário.
 
-Também participei da equipe de desenvolvimento, ficando responsável pela modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados. Além disso auxiliei no desenvolvimento do wireframe, utilizando a ferramenta FIGMA e tambem desenvolvendo o frontend de algumas telas.
+Também participei da equipe de desenvolvimento, ficando responsável pela modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados. Além disso auxiliei no desenvolvimento do wireframe, utilizando a ferramenta FIGMA e tambem desenvolvendo o frontend de algumas telas utilizando o React.
 
 <br>
 <h3 align="center">Modelo de dados relacional</h3>
 <h4 align="center">Modelo conceitual<br></h4>
 <p align="center">
-    <img src="/readme/2023-2/modeloConceitualSprint4.png"/>
+    <img src="/readme/2023-2/modeloConceitualSprint4.png" width="65%"/>
 </p>
 
 <br>
 <h4 align="center">Modelo lógico<br></h4>
 <p align="center">
-    <img src="/readme/2023-2/modeloLogicoSprint4.png"/>
+    <img src="/readme/2023-2/modeloLogicoSprint4.png" width="65%"/>
 </p>
 
 #### Hard Skills
@@ -302,10 +302,10 @@ Também participei da equipe de desenvolvimento, ficando responsável pela model
 * SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD) e também capacidade de modelar um banco de dados.
     
 #### Soft Skills
-* Comunicação - Como Product Owner, aprimorei minhas habilidades de comunicação ao trabalhar com a equipe de desenvolvimento. Durante as reuniões de refinamento de backlog, busquei levar de maneira clara os requisitos do cliente e esclarecer quaisquer dúvidas que surgiram durante o processo. Além disso, tentei manter uma comunicação aberta e transparente com os cliente.
+* Comunicação - Como Product Owner, aprimorei minhas habilidades de comunicação ao trabalhar com a equipe de desenvolvimento. Durante as reuniões de refinamento de backlog, busquei levar de maneira clara os requisitos do cliente e esclarecer quaisquer dúvidas que surgiram durante o processo. Além disso, tentei manter uma comunicação aberta e frequente com os cliente.
 * Organização - A organização foi fundamental para o meu papel como Product Owner, pois fui responsável por gerenciar o backlog do produto e priorizar as funcionalidades com base nas necessidades do cliente e nos objetivos do negócio.
-* Liderança - Como líder do projeto do ponto de vista do negócio, exerci a liderança ao definir uma visão clara para o produto e inspirar a equipe a trabalhar em direção a esse objetivo.
-* Resiliência - Enfrentar mudanças nos requisitos do cliente e responder a imprevistos durante o desenvolvimento do projeto exigiu uma resiliência significativa da minha parte. Além de me manter firme frente as constantes ausencias do cliente nas respostas de perguntas elaboradas pela equipe.
+* Liderança - Como líder do projeto do ponto de vista do negócio, exerci a liderança ao definir uma visão para o produto e inspirar a equipe a trabalhar em direção a esse objetivo.
+* Resiliência - Enfrentar mudanças nos requisitos do cliente e suas constantes ausências durante o desenvolvimento do projeto exigiu uma resiliência significativa da minha parte.
 
 ### Em 2024-1
 Mesmo formato
