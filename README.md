@@ -257,6 +257,15 @@ No segundo semestre de 2023, iniciamos um projeto em parceria com a Greenneat, u
 
 Desenvolvemos uma plataforma online que permite aos parceiros coletarem óleo de estabelecimentos e revendê-lo à Greenneat, recebendo créditos em troca. Esses créditos podem ser usados para adquirir saneantes disponíveis no site da Greenneat. Os parceiros têm acesso a um painel para acompanhar suas transações, enquanto os estabelecimentos monitoram suas compras e saldos de crédito. O administrador controla a plataforma e tem acesso a um dashboard com informações relevantes, como desempenho de descarte e participação na economia circular.
 
+  <p align="center">
+    <img src="/readme/2023-2/cadastro.gif" width="65%" />
+  </p>
+  
+  <br>
+  <p align="center">
+    <img src="/readme/2023-2/login_recuperacaoSenha.gif" width="65%" />
+  </p>
+
 Para mais informações:
 [GITHUB](https://github.com/CamilaRedondo/API-FATEC-4-SEM)
 
@@ -269,9 +278,22 @@ Para mais informações:
 * Figma
 
 #### Contribuições Pessoais
-No decorrer deste projeto, exerci o papel de Product Owner, sendo responsável por definir e priorizar as funcionalidades do sistema em conjunto com o cliente. Precisei garantir uma comunicação clara das necessidades da Greenneat fornecendo orientações constantes para a equipe de desenvolvimento de forma a alinhas os objetivos do produto. Utilizei ferramentas como o Excel para criar e atualizar o Product Backlog, onde listei e priorizei as histórias de usuário.
+No decorrer deste projeto, exerci o papel de Product Owner, sendo responsável por definir e priorizar as funcionalidades do sistema em conjunto com o cliente. Precisei garantir uma comunicação clara das necessidades da Greenneat fornecendo orientações constantes para a equipe de desenvolvimento de forma a alinhar os objetivos do produto. Utilizei ferramentas como o Excel para criar e atualizar o Product Backlog, onde listei e priorizei as histórias de usuário.
 
 Também participei da equipe de desenvolvimento, ficando responsável pela modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados. Além disso auxiliei no desenvolvimento do wireframe, utilizando a ferramenta FIGMA e tambem desenvolvendo o frontend de algumas telas.
+
+<br>
+<h3 align="center">Modelo de dados relacional</h3>
+<h4 align="center">Modelo conceitual<br></h4>
+<p align="center">
+    <img src="/readme/2023-2/modeloConceitualSprint4.png"/>
+</p>
+
+<br>
+<h4 align="center">Modelo lógico<br></h4>
+<p align="center">
+    <img src="/readme/2023-2/modeloLogicoSprint4.png"/>
+</p>
 
 #### Hard Skills
 * React - Possuo autonomia para desenvolver o frontend componentizado.
