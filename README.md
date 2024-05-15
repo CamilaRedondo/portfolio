@@ -357,7 +357,7 @@ Para mais informações:
 
 #### Contribuições Pessoais
 No decorrer deste projeto participei da equipe de desenvolvimento, ficando responsável pela tela de cadastro, exclusão e edição de consultor de alianças. No desenvolvimento dessa tela precisei ter conhecimento do framework React Native e trabalhar com o CRUD de um banco de dados não relacional como o MongoDB. Também realizei a documentação do projeto no github.
-
+...continuar...
 <br>
 
  <h3 align="center">Editar o perfil consultor de alianças.</h3>
@@ -386,9 +386,9 @@ No decorrer deste projeto participei da equipe de desenvolvimento, ficando respo
 * MongoDB - Possuo autonomia para realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados não relacional.
 
 #### Soft Skills
-Comunicação - Ao fazer parte da equipe de desenvolvimento, refinei minhas habilidades de comunicação ao interagir com meus colegas e compartilhar minhas ideias durante as reuniões diárias. Além disso, ao realizar o code review, contribuí para as discussões sobre as melhores abordagens para implementar funcionalidades.
-Organização - Ao desenvolver o projeto, pratiquei minhas habilidades de organização ao planejar e priorizar tarefas de acordo com os requisitos e prazos estabelecidos. Mantendo um cronograma claro e focado, alcancei os objetivos da sprint e contribuí para o sucesso do projeto.
-Liderança - Durante o desenvolvimento, demonstrei liderança ao tomar a iniciativa e propor ideias para aprimorar o design do frontend.
+* Comunicação - Ao fazer parte da equipe de desenvolvimento, refinei minhas habilidades de comunicação ao interagir com meus colegas e compartilhar minhas ideias durante as reuniões diárias. Além disso, ao realizar o code review, contribuí para as discussões sobre as melhores abordagens para implementar funcionalidades.
+* Organização - Ao desenvolver o projeto, pratiquei minhas habilidades de organização ao planejar e priorizar tarefas de acordo com os requisitos e prazos estabelecidos. Mantendo um cronograma claro e focado, alcancei os objetivos da sprint e contribuí para o sucesso do projeto.
+* Liderança - Durante o desenvolvimento, demonstrei liderança ao tomar a iniciativa e propor ideias para aprimorar o design do frontend.
    
 ### Em 2024-2
 Mesmo formato
