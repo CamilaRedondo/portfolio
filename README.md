@@ -319,7 +319,7 @@ Para garantir uma gestão eficiente, também conta com um módulo administrativo
    <h3 align="center">Login como Consultor de Alianças.</h3>
 
 <p align="center">
-    <img src="/readme/2024-1/loginConsultorAliancas.gif"/>
+    <img src="/readme/2024-1/loginConsultorAliancas.gif" width="15%"/>
     <br>
     <a href="https://youtube.com/shorts/GcA-2Alec6g?feature=share">Link para uma melhor resolução</a>
 </p>
