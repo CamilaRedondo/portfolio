@@ -319,7 +319,7 @@ Para garantir uma gestão eficiente, também conta com um módulo administrativo
    <h3 align="center">Login como Consultor de Alianças.</h3>
 
 <p align="center">
-    <img src="/readme/loginConsultorAliancas.gif"/>
+    <img src="/readme/2024-1/loginConsultorAliancas.gif"/>
     <br>
     <a href="https://youtube.com/shorts/GcA-2Alec6g?feature=share">Link para uma melhor resolução</a>
 </p>
@@ -329,7 +329,7 @@ Para garantir uma gestão eficiente, também conta com um módulo administrativo
  <h3 align="center">Adicionar parceiro.</h3>
 
 <p align="center">
-    <img src="/readme/adicionarParceiro.gif"/>
+    <img src="/readme/2024-1/adicionarParceiro.gif"/>
     <br>
     <a href="https://youtube.com/shorts/wMTgTlr982w?feature=share">Link para uma melhor resolução</a>
 </p>
@@ -339,7 +339,7 @@ Para garantir uma gestão eficiente, também conta com um módulo administrativo
 <h3 align="center">Adicionar Track e Expertise do parceiro.</h3>
 
 <p align="center">
-    <img src="/readme/adicionarTrackExpertise.gif"/>
+    <img src="/readme/2024-1/adicionarTrackExpertise.gif"/>
     <br>
     <a href="https://youtube.com/shorts/E7BV9YUvAck?feature=share">Link para uma melhor resolução</a>
 </p>
@@ -363,7 +363,7 @@ No decorrer deste projeto participei da equipe de desenvolvimento, ficando respo
  <h3 align="center">Editar o perfil consultor de alianças.</h3>
 
  <p align="center">
-    <img src="/readme/editarConsultorAliancas.gif"/>
+    <img src="/readme/2024-1/editarConsultorAliancas.gif"/>
     <br>
     <a href="https://youtube.com/shorts/k-mWljAZT0U">Link para uma melhor resolução</a>
 </p>
@@ -372,7 +372,7 @@ No decorrer deste projeto participei da equipe de desenvolvimento, ficando respo
 
    <h3 align="center">Adicionar consultor de alianças.</h3>
 <p align="center">
-    <img src="/readme/adicionarConsultorAliancas.gif"/>
+    <img src="/readme/2024-1/adicionarConsultorAliancas.gif"/>
     <br>
     <a href="https://youtube.com/shorts/jaJvUHtxoDg">Link para uma melhor resolução</a>
 </p>
