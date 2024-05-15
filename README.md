@@ -127,7 +127,7 @@ Observação: É importante ressaltar que, neste projeto, os clientes também s�
 </p>
 
 <br>
-  <h4 align="center"><br><a href="https://youtu.be/MpbO26x4V6s">Youtube (Qualidade melhor)</a></h4>
+  <h4 align="center"><br><a href="https://www.youtube.com/watch?v=Ayp1KyIrV_s">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
     <img src="/readme/2022-2/Config_canais.gif" width="60%" />
 </p>
@@ -308,7 +308,87 @@ Também participei da equipe de desenvolvimento, ficando responsável pela model
 * Resiliência - Enfrentar mudanças nos requisitos do cliente e suas constantes ausências durante o desenvolvimento do projeto exigiu uma resiliência significativa da minha parte.
 
 ### Em 2024-1
-Mesmo formato
+No primeiro semestre de 2024, foi estabelecido uma parceria com a Oracle Academy, com o objetivo de desenvolver um aplicativo dedicado ao gerenciamento dos seus parceiros corporativos.
 
+O propósito principal deste aplicativo é unificar e automatizar as atividades relacionadas à gestão de parcerias de negócios. As principais funcionalidades do sistema incluem o cadastro e atualização de parceiros com informações detalhadas sobre sua expertise, bem como o acompanhamento do desenvolvimento de conhecimento dos parceiros para remuneração. Além disso, o sistema oferece a extração de relatórios relevantes sobre o desempenho dos parceiros, facilitando a análise e tomada de decisões estratégicas. 
+
+Para garantir uma gestão eficiente, também conta com um módulo administrativo que permite o cadastro, edição e exclusão de consultor de alianças, que são os reponsáveis por cadastrar e atualizar as informações sobre os parceiros. Essas funcionalidades visam unificar e automatizar as atividades relacionadas à gestão de parcerias de negócios, ao mesmo tempo em que aprimoram a eficiência operacional da organização.
+
+  <br>
+
+   <h3 align="center">Login como Consultor de Alianças.</h3>
+
+<p align="center">
+    <img src="/readme/loginConsultorAliancas.gif"/>
+    <br>
+    <a href="https://youtube.com/shorts/GcA-2Alec6g?feature=share">Link para uma melhor resolução</a>
+</p>
+
+  <br>
+
+ <h3 align="center">Adicionar parceiro.</h3>
+
+<p align="center">
+    <img src="/readme/adicionarParceiro.gif"/>
+    <br>
+    <a href="https://youtube.com/shorts/wMTgTlr982w?feature=share">Link para uma melhor resolução</a>
+</p>
+
+   <br>
+
+<h3 align="center">Adicionar Track e Expertise do parceiro.</h3>
+
+<p align="center">
+    <img src="/readme/adicionarTrackExpertise.gif"/>
+    <br>
+    <a href="https://youtube.com/shorts/E7BV9YUvAck?feature=share">Link para uma melhor resolução</a>
+</p>
+
+   <br>
+Para mais informações:
+[GITHUB](https://github.com/CamilaRedondo/API-FATEC-5-SEM)
+
+#### Tecnologias Utilizadas
+* React Native
+* NodeJS
+* MongoDB
+* Github
+* Figma
+
+#### Contribuições Pessoais
+No decorrer deste projeto participei da equipe de desenvolvimento, ficando responsável pela tela de cadastro, exclusão e edição de consultor de alianças. No desenvolvimento dessa tela precisei ter conhecimento do framework React Native e trabalhar com o CRUD de um banco de dados não relacional como o MongoDB. Também realizei a documentação do projeto no github.
+
+<br>
+
+ <h3 align="center">Editar o perfil consultor de alianças.</h3>
+
+ <p align="center">
+    <img src="/readme/editarConsultorAliancas.gif"/>
+    <br>
+    <a href="https://youtube.com/shorts/k-mWljAZT0U">Link para uma melhor resolução</a>
+</p>
+
+   <br>
+
+   <h3 align="center">Adicionar consultor de alianças.</h3>
+<p align="center">
+    <img src="/readme/adicionarConsultorAliancas.gif"/>
+    <br>
+    <a href="https://youtube.com/shorts/jaJvUHtxoDg">Link para uma melhor resolução</a>
+</p>
+
+   <br>
+   
+#### Hard Skills
+* React Native - Possuo autonomia para desenvolver o frontend utilizando o framework React Native.
+* NodeJS - Tenho autonomia para desenvolver o backend utilizando NodeJS.
+* Figma - Tenho habilidade para desenvolver um wireframe/protótipo de projetos utilizando a ferramenta.
+* MongoDB - Possuo autonomia para realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados não relacional.
+
+#### Soft Skills
+Comunicação - Ao fazer parte da equipe de desenvolvimento, refinei minhas habilidades de comunicação ao interagir com meus colegas e compartilhar minhas ideias durante as reuniões diárias. Além disso, ao realizar o code review, contribuí para as discussões sobre as melhores abordagens para implementar funcionalidades.
+Organização - Ao desenvolver o projeto, pratiquei minhas habilidades de organização ao planejar e priorizar tarefas de acordo com os requisitos e prazos estabelecidos. Mantendo um cronograma claro e focado, alcancei os objetivos da sprint e contribuí para o sucesso do projeto.
+Liderança - Durante o desenvolvimento, demonstrei liderança ao tomar a iniciativa e propor ideias para aprimorar o design do frontend.
+   
 ### Em 2024-2
 Mesmo formato
