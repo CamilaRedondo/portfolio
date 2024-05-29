@@ -151,7 +151,7 @@ Para mais informações:
 * Figma
 
 #### Contribuições Pessoais
-No desenvolvimento desse projeto, pude contribuir como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento das interfaces graficas utilizando o SceneBuilder (uma ferramenta gráfica de design e layout fornecida pela Oracle para o desenvolvimento de interfaces de usuário em JavaFX). Também pude participar da modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados.
+No desenvolvimento desse projeto, pude contribuir como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento das interfaces graficas utilizando o SceneBuilder (uma ferramenta gráfica de design e layout fornecida pela Oracle para o desenvolvimento de interfaces de usuário em JavaFX). Também pude participar da modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados utilizando linguagem SQL e o sistema de gerenciamento de banco de dados MYSQL.
 
 
 <br>
@@ -218,9 +218,9 @@ Para mais informações:
 #### Contribuições Pessoais
 No desenvolvimento desse projeto, pude contribuir atuando como Scrum Master da equipe, gerenciando e monitorando o desenvolvimento do time. Para desempenhar meu papel de Scrum Master, utilizei o Excel para traçar o burndown (ferramenta visual usada para rastrear o progresso de uma equipe em relação à conclusão de um conjunto de tarefas de uma sprint), além de utilizarmos o Trello para acompanhar o progresso das tarefas durante a sprint.
 
-Além da função de Scrum Master, também pude desenvolver parte do projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento do wireframe utilizando o figma. Nessa etapa inicial, pude auxiliar meu colega de equipe no desenvolvimento do desing das interfaces, aprendendo a manusar de maneira eficientea a ferramenta. Além disso pude contribuir criando alguns componentes utilizados em algumas páginas, aprendendo e conhecendo melhor a biblioteca React. 
+Além da função de Scrum Master, também pude desenvolver parte do projeto como membro da equipe de desenvolvimento. A parte em que mais atuei foi no desenvolvimento do wireframe utilizando o figma. Nessa etapa inicial, pude auxiliar meu colega de equipe no desenvolvimento do desing das interfaces, aprendendo a manusar de maneira eficientea a ferramenta. Além disso pude contribuir criando alguns componentes utilizados em algumas páginas, aprendendo e conhecendo melhor a biblioteca React e me familiarizando melhor com a linguagem JavaScript. 
 
-Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados.
+Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados utilizando a linguagem SQL e o sistema de gerenciamento de banco de dados Postgres.
 
 <br>
   <h3 align="center">Modelo de dados relacional</h3>
@@ -236,7 +236,6 @@ Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento
     <img src="/readme/2023-1/modeloLogico_BD.png" width="65%" />
   </p>
   <p align="justify">O modelo de dados lógico é caracterizado pelas entidades: <i>User</i> e <i>Profile</i>. A entidade <i>User</i> contêm os seguintes atributos: <i>ID</i> (chave primária) do tipo inteiro, <i>fullName</i> do tipo baseado em caracteres, <i>userName</i> do tipo baseado em caracteres, <i>cpf</i> do tipo baseado em caracteres, <i>email</i> do tipo baseado em caracteres, <i>password</i> do tipo baseado em caracteres, <i>active</i> do tipo booleano, <i>createdDate</i> do tipo dateTime e <i>lastUpdate</i> do tipo dateTime. A entidade <i>Profile</i> contêm os seguintes atributos: <i>ID</i> (chave primária) do tipo inteiro, <i>userID</i> (chave extrangeira) do tipo baseado em caracteres e <i>type</i> do tipo TinyInt. </p>
-    <p align="justify">As relações entre as entidades são todas do tipo <b>1:1</b>, onde:</p>
     <br>
 
 #### Hard Skills
@@ -280,7 +279,7 @@ Para mais informações:
 #### Contribuições Pessoais
 No decorrer deste projeto, exerci o papel de Product Owner, sendo responsável por definir e priorizar as funcionalidades do sistema em conjunto com o cliente. Precisei garantir uma comunicação clara das necessidades da Greenneat fornecendo orientações constantes para a equipe de desenvolvimento de forma a alinhar os objetivos do produto. Utilizei ferramentas como o Excel para criar e atualizar o Product Backlog, onde listei e priorizei as histórias de usuário.
 
-Também participei da equipe de desenvolvimento, ficando responsável pela modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados. Além disso auxiliei no desenvolvimento do wireframe, utilizando a ferramenta FIGMA e tambem desenvolvendo o frontend de algumas telas utilizando o React.
+Também participei da equipe de desenvolvimento, ficando responsável pela modelagem do banco de dados fazendo o levantamento dos requisitos de negocio, indentificando as entidades e os atributos, os relacionamentos entre as entidades, diagrama entidade-relacionamento (DER) e por fim a implementação do banco de dados utilizando a linguagem SQL e o sistema de gerenciamento de banco de dados SQLite. Além disso auxiliei no desenvolvimento do wireframe, utilizando a ferramenta FIGMA e tambem desenvolvendo o frontend de algumas telas utilizando o React.
 
 <br>
 <h3 align="center">Modelo de dados relacional</h3>
