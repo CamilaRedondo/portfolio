@@ -309,9 +309,9 @@ Também participei da equipe de desenvolvimento, ficando responsável pela model
 ### Em 2024-1
 No primeiro semestre de 2024, foi estabelecido uma parceria com a Oracle Academy, com o objetivo de desenvolver um aplicativo dedicado ao gerenciamento dos seus parceiros corporativos.
 
-O propósito principal deste aplicativo é unificar e automatizar as atividades relacionadas à gestão de parcerias de negócios. As principais funcionalidades do sistema incluem o cadastro e atualização de parceiros com informações detalhadas sobre sua expertise, bem como o acompanhamento do desenvolvimento de conhecimento dos parceiros para remuneração. Além disso, o sistema oferece a extração de relatórios relevantes sobre o desempenho dos parceiros, facilitando a análise e tomada de decisões estratégicas. 
+O propósito principal deste aplicativo é unificar e automatizar as atividades relacionadas à gestão de parcerias de negócios. Onde as principais funcionalidades do sistema incluem o cadastro e atualização de parceiros com informações detalhadas sobre sua expertise, bem como o acompanhamento do desenvolvimento de conhecimento dos parceiros para remuneração. Além disso, o sistema oferece a extração de relatórios relevantes sobre o desempenho dos parceiros, facilitando a análise e tomada de decisões estratégicas. 
 
-Para garantir uma gestão eficiente, também conta com um módulo administrativo que permite o cadastro, edição e exclusão de consultor de alianças, que são os reponsáveis por cadastrar e atualizar as informações sobre os parceiros. Essas funcionalidades visam unificar e automatizar as atividades relacionadas à gestão de parcerias de negócios, ao mesmo tempo em que aprimoram a eficiência operacional da organização.
+Para garantir uma gestão eficiente, o app também conta com um módulo administrativo que permite o cadastro, edição e exclusão de consultor de alianças, que são os reponsáveis por cadastrar e atualizar as informações sobre os parceiros. Essas funcionalidades visam unificar e automatizar as atividades relacionadas à gestão de parcerias de negócios, ao mesmo tempo em que aprimoram a eficiência operacional da organização.
 
   <br>
 
@@ -355,8 +355,7 @@ Para mais informações:
 * Figma
 
 #### Contribuições Pessoais
-No decorrer deste projeto participei da equipe de desenvolvimento, ficando responsável pela tela de cadastro, exclusão e edição de consultor de alianças. No desenvolvimento dessa tela precisei ter conhecimento do framework React Native e trabalhar com o CRUD de um banco de dados não relacional como o MongoDB. Também realizei a documentação do projeto no github.
-...continuar...
+No decorrer deste projeto participei da equipe de desenvolvimento, ficando responsável pela tela de cadastro, exclusão e edição de consultor de alianças. No desenvolvimento dessa tela precisei ter conhecimento do framework React Native para desenvolver o frontend e trabalhar com o CRUD de um banco de dados não relacional como o MongoDB para realizar todas as operações necessárias. Também realizei a documentação do projeto, elaborando um manual de uso para o usuários do aplicativo, detalhando a sua finalizade e funcionalidade. Por fim, pude atualizar o readme do repositorio com informações sobre o andamento do projeto e gifs.
 <br>
 
  <h3 align="center">Editar o perfil consultor de alianças.</h3>
