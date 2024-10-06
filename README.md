@@ -12,8 +12,9 @@ Após concluir minha primeira graduação, decidi ingressar no curso de Análise
 Essa conquista não só me encheu de orgulho, mas também abriu portas para minha entrada no mercado de trabalho. Atualmente, estou estagiando na Geopixel, uma empresa de tecnologia focada em automatizar processos municipais. Na equipe de desenvolvimento mobile, tenho a oportunidade de aplicar meus conhecimentos e habilidades, trabalhando com tecnologias como JavaScript, Vue.js, PostgreSQL, entre outras. Além disso, tive a chance de explorar o universo do React e TypeScript, ampliando meu repertório profissional.
 
 ## Contatos
-* [GITHUB](https://github.com/CamilaRedondo)
+* [Github](https://github.com/CamilaRedondo)
 * [LinkedIn](https://www.linkedin.com/in/camila-silveira-redondo/)
+* [E-mail](caredondo97@gmail.com)
 
 ## Meus Principais Conhecimentos
 * HTML5
@@ -70,7 +71,7 @@ Um dos pontos chave desse projeto foi fornecer uma gama de vagas de emprego. Par
 <br>
 
 Para mais informações:
-[GITHUB](https://github.com/CamilaRedondo/API-FATEC)
+[Github](https://github.com/CamilaRedondo/API-FATEC)
 
 #### Tecnologias Utilizadas
 * HTML5
