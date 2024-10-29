@@ -102,10 +102,9 @@ Observação: Realizamos esse mesmo processo para coletar informações sobre os
 [Código - Web Crawler / cursos profissionalizantes](https://github.com/henriqFerreira/API-FATEC-1-SEM/blob/main/web-crawler/cursos/app.py)
 
 #### Hard Skills
-* HTML5 - Possuo autonomia para estruturar semanticamente páginas web.
-* CSS3 - Tenho autonomia para estilizar páginas web.
-* JavaScript - Possuo autonomia para manipular o DOM e desenvolver lógica.
-* Python - Tenho habilidade para desenvolver lógica com autonomia.
+* HTML5 e CSS3 - Possuo autonomia para desenvolver interfaces organizadas e responsivas, aplicando HTML5 e CSS3 na construção de páginas web intuitivas e de fácil navegação. Domínio na criação de estrutura e estilização semântica, priorizando usabilidade e performance visual. 
+* JavaScript - Possuo autonomia para manipular o DOM e desenvolver lógica. Também possuo autonomia na criação de gráficos interativos com Charts.js, manipulando dados em tempo real para fornecer insights visuais aos usuários. Habilidade em desenvolver scripts para processar dados e integrar visualizações interativas ao frontend.
+* Python - Tenho habilidade para desenvolver lógica à implementação e manipulação de dados, garantindo consistência e confiabilidade nas informações coletadas.
 * SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD).
 
 #### Soft Skills
@@ -181,10 +180,10 @@ No desenvolvimento desse projeto, pude contribuir como membro da equipe de desen
     <br>
 
 #### Hard Skills
-* Java - Possuo autonomia para desenvolver o back-end utilizando a linguagem e conceitos de programação orientada a objetos (POO).
+* Java - Possuo autonomia para desenvolver o back-end utilizando a linguagem e conceitos de programação orientada a objetos (POO) como herança, encapsulamento e polimorfismo, no contexto de desenvolvimento desktop.
 * JavaFX - Tenho autonomia para desenvolver interfaces gráficas de usuário (GUIs).
-* SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD).
-
+* SQL - Possuo autonomia para modelar e implementar o banco de dados usando SQL e MySQL, desde a criação de entidades até a definição de relações, focando em consistência e desempenho. Também possuo autonomina em realizar operações CRUD.
+  
 #### Soft Skills
 * Comunicação - Como parte da equipe de desenvolvimento, eu tive a oportunidade de aprimorar minhas habilidades de comunicação ao interagir com colegas mais experientes e compartilhar minhas ideias durante as reuniões diárias. Além disso, durante as sessões de revisão de código e planejamento, eu tive a chance de expressar minhas opiniões e contribuir para a discussão sobre as melhores abordagens para a implementação de funcionalidades. Por exemplo, em uma reunião de planejamento, eu sugeri uma abordagem para a implementação da interface usando JavaFX, o que foi bem recebido pela equipe e resultou em uma solução mais elegante e simples de ser desenvolvida.
 * Organização - Durante o desenvolvimento do projeto, eu tive a oportunidade de praticar minhas habilidades de organização ao planejar e priorizar minhas tarefas de acordo com os requisitos e prazos estabelecidos. Ao manter um cronograma claro e focado, eu consegui cumprir os objetivos da sprint e contribuir para o sucesso do projeto.
@@ -242,10 +241,10 @@ Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento
     <br>
 
 #### Hard Skills
-* React - Possuo autonomia para desenvolver o frontend componentizado.
-* NodeJS - Tenho autonomia para desenvolver o backend utilizando NodeJS.
+* React - Possuo autonomia em estruturar interfaces dinâmicas, interativas e componentizadas, visando uma experiência de usuário intuitiva e ágil.
+* NodeJS - Tenho autonomia para desenvolver o backend utilizando NodeJS, mais especificamente criando rotas, endpoints além da interação com o banco de dados.
 * Docker - Possuo o conceito de manipulação de docker.
-* Figma - Tenho habilidade para desenvolver um wireframe/protótipo de projetos utilizando a ferramenta.
+* Figma - Tenho habilidade em transformar requisitos funcionais em interfaces claras e funcionais.
 * SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD) e também capacidade de modelar um banco de dados.
     
 #### Soft Skills
@@ -300,10 +299,10 @@ Também participei da equipe de desenvolvimento, ficando responsável pela model
 </p>
 
 #### Hard Skills
-* React - Possuo autonomia para desenvolver o frontend componentizado.
-* NodeJS - Tenho autonomia para desenvolver o backend utilizando NodeJS.
-* Figma - Tenho habilidade para desenvolver um wireframe/protótipo de projetos utilizando a ferramenta.
-* SQL - Possuo autonomia para realizar operações básicas de manipulação de dados em sistemas de banco de dados (CRUD) e também capacidade de modelar um banco de dados.
+* React - Possuo autonomia em estruturar interfaces dinâmicas, interativas e componentizadas, visando uma experiência de usuário intuitiva e ágil.
+* NodeJS - Tenho autonomia para desenvolver o backend utilizando NodeJS, mais especificamente criando rotas, endpoints além da interação com o banco de dados.
+* Figma - Tenho habilidade em transformar requisitos funcionais em interfaces claras e funcionais.
+* SQL - Possuo autonomia para modelar e implementar o banco de dados usando SQL e MySQL, desde a criação de entidades até a definição de relações, focando em consistência e desempenho. Também possuo autonomina em realizar operações CRUD.
     
 #### Soft Skills
 * Comunicação - Como Product Owner, aprimorei minhas habilidades de comunicação ao trabalhar com a equipe de desenvolvimento. Durante as reuniões de refinamento de backlog, busquei levar de maneira clara os requisitos do cliente e esclarecer quaisquer dúvidas que surgiram durante o processo. Além disso, tentei manter uma comunicação aberta e frequente com os cliente.
@@ -383,10 +382,10 @@ No decorrer deste projeto participei da equipe de desenvolvimento, ficando respo
    <br>
    
 #### Hard Skills
-* React Native - Possuo autonomia para desenvolver o frontend utilizando o framework React Native.
-* NodeJS - Tenho autonomia para desenvolver o backend utilizando NodeJS.
-* Figma - Tenho habilidade para desenvolver um wireframe/protótipo de projetos utilizando a ferramenta.
-* MongoDB - Possuo autonomia para realizar operações básicas de manipulação de dados (CRUD) em sistemas de banco de dados não relacional.
+* React Native - Possuo autonomia para desenvolver interfaces móveis nativas usando React Native, implementando telas, integrando componentes reutilizáveis e criando uma navegação intuitiva.
+* NodeJS - Tenho autonomia para desenvolver o backend utilizando NodeJS, mais especificamente criando rotas, endpoints além da interação com o banco de dados.
+* Figma - Tenho habilidade em transformar requisitos funcionais em interfaces claras e funcionais.
+* MongoDB - Possuo autonomia para realizar modelagem de dados para bancos não relacionais e habilidades em otimizar queries e operações de agregação para melhorar o tempo de resposta.
 
 #### Soft Skills
 * Comunicação - Ao fazer parte da equipe de desenvolvimento, refinei minhas habilidades de comunicação ao interagir com meus colegas e compartilhar minhas ideias durante as reuniões diárias. Além disso, ao realizar o code review, contribuí para as discussões sobre as melhores abordagens para implementar funcionalidades.
