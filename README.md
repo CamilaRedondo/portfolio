@@ -393,4 +393,33 @@ No decorrer deste projeto participei da equipe de desenvolvimento, ficando respo
 * Liderança - Durante o desenvolvimento, demonstrei liderança ao tomar a iniciativa e propor ideias para aprimorar o design do frontend.
    
 ### Em 2024-2
-Mesmo formato
+No segundo semestre de 2024, estabelecemos uma parceria estratégica com a empresa Dom Rock, especializada em inteligência artificial para a tomada de decisões em negócios. Eles nos apresentaram uma proposta de desenvolvimento de um chatbot voltado para o setor de marketing, com o objetivo de otimizar a análise de dados, personalizar campanhas e identificar tendências e oportunidades de crescimento a partir de dados de clientes. Para maximizar a precisão e a relevância das respostas do chatbot, adotamos a arquitetura RAG (Retrieval-Augmented Generation), permitindo que o modelo acesse dados vetorizados para enriquecer suas respostas.
+
+<br>
+Para mais informações:
+[GITHUB](https://github.com/CamilaRedondo/API-FATEC-6-SEM)
+
+#### Tecnologias Utilizadas
+* Python
+* ChromaDB
+* LangChain
+* LLM (LLaMA)
+* Figma
+* Vue.js
+
+#### Contribuições Pessoais
+Atuei como Scrum Master no projeto, coordenando as três sprints planejadas e garantindo que as atividades fossem organizadas e monitoradas no Jira. Em colaboração com o Product Owner (P.O.), priorizamos as tarefas essenciais, alinhando constantemente o escopo às expectativas do cliente. Embora eu não tenha atuado diretamente na equipe de desenvolvimento, aprofundei meus conhecimentos em técnicas avançadas de Processamento de Linguagem Natural (PLN), estratégias de chunking e embedding, visando otimizar o processamento das perguntas e melhorar a precisão das respostas do chatbot.
+<br>
+
+#### Hard Skills
+* Python – Possuo autonomia para o desenvolvimento da IA, implementando tecnias de PLN, chunking e embbedings.
+* ChromaDB – Possuo autonomia em gerenciar bancos de dados vetoriais, realizando operações de consulta e otimização para respostas rápidas e relevantes.
+* LangChain – Possuo autonomia em configurar e orquestrar pipelines de IA, interligando LLMs e bancos de dados vetoriais para automatizar a recuperação de informações.
+* LLM (LLaMA) – Possuo autonomia na configuração e ajuste de modelos de linguagem de grande porte, adaptando-os para compreender e responder a consultas no contexto de marketing.
+* Figma – Possuo autonomia em desenvolver design de interfaces e prototipagem no Figma, garantindo a usabilidade e uma experiência visualmente agradável para o usuário final.
+* Vue.js – Possuo autonomia no desenvolvimento frontend utilizando Vue.JS, incluindo a criação de componentes dinâmicos e integração com o backend para uma experiência de usuário responsiva e intuitiva.
+
+#### Soft Skills
+* Comunicação – Como Scrum Master, precisei desenvolver uma comunicação eficaz, mantendo uma postura aberta ao feedback da equipe durante as sprints e transmitindo as necessidades e progressos ao professor supervisor, assegurando um ambiente colaborativo e alinhado.
+* Organização – Fortaleci minha habilidade de organização ao utilizar o Jira para estruturar o quadro Kanban, monitorando o progresso das sprints e gerando métricas precisas para acompanhamento do projeto.
+* Resiliência – Diante do desafio de lidar com conceitos de IA complexos e novos, demonstrei resiliência ao estudar e me adaptar rapidamente, contribuindo com o P.O para a definição das tarefas e a superação dos obstáculos técnicos do projeto.
