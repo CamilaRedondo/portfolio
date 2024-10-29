@@ -30,9 +30,11 @@ Essa conquista não só me encheu de orgulho, mas também abriu portas para minh
 
 ### Em 2022-1
 
-No primeiro semestre de 2022, em parceria com a FATEC, desenvolvemos um website de vagas de emprego ligadas à área de Tecnologia da Informação (T.I). Nesse website, os usuários tinham acesso a inúmeras oportunidades anunciadas por empresas de todo o Brasil, incluindo suas descrições completas. Além disso, os usuários também podiam acessar cursos de capacitação profissional na área de tecnologia. Por fim, era apresentado um panorama das vagas e cursos ofertados pelo site em gráficos.
+No primeiro semestre de 2022, em parceria com a FATEC, mais especificamente com os professores ANTONIO EGYDIO SAO THIAGO GRACA e JEAN CARLOS LOURENCO COSTA, desenvolvemos um website com o intuito de apresentar vagas de emprego ligadas à área de Tecnologia da Informação (T.I). Nesse website, os usuários tinham acesso a inúmeras oportunidades anunciadas por empresas de todo o Brasil, incluindo suas descrições completas. Além disso, os usuários também podiam acessar cursos de capacitação profissional na área de tecnologia. Para facilitar a compreensão das tendências do mercado, apresentamos um panorama das vagas e cursos ofertados pelo site em gráficos interativos, visando clareza e rapidez no acesso aos dados.
 
-Um dos pontos chave desse projeto foi fornecer uma gama de vagas de emprego. Para isso, utilizamos a raspagem de dados para coletarmos essas informações em outros meios digitais e utilizalos no site desenvolvido.
+Um dos problemas que solucionamos desse projeto foi fornecer uma ampla gama de vagas de emprego. Para isso, utilizamos a raspagem de dados para coletar essas informações em outros meios digitais e utilizá-las no site desenvolvido. Esse processo, no entanto, trouxe alguns desafios, como a necessidade de garantir a qualidade e atualização dos dados: para assegurar que as vagas estivessem sempre precisas e atualizadas, foi necessário desenvolver um sistema eficiente de raspagem. No entanto, as fontes de dados mudam suas estruturas com frequência, o que exigiu ajustes contínuos para manter a coleta ativa.
+
+Além disso, outra questão solicitada pelo cliente foi fazer com que o site apresentasse uma visão clara das oportunidades, empregamos gráficos interativos que exibem dados de forma organizada e acessível, permitindo aos usuários uma experiência intuitiva e completa na visualização das informações.
 
 <br>
   <h4 align="center"><br><a href="https://www.youtube.com/watch?v=vAR8DCsnbfE">Youtube (Qualidade melhor)</a></h4>
@@ -113,13 +115,13 @@ Observação: Realizamos esse mesmo processo para coletar informações sobre os
 * Resiliência - Como parte integrante da equipe de desenvolvimento e Scrum Master, enfrentei desafios técnicos e operacionais com resiliência e determinação.
 
 ### Em 2022-2
-No segundo semestre de 2022, estabelecemos uma parceria com a empresa Trackcash, especializada em serviços de conciliação financeira voltados para e-commerces, marketplaces e estabelecimentos físicos.
+No segundo semestre de 2022, estabelecemos uma parceria com a Trackcash, uma empresa especializada em serviços de conciliação financeira voltados para e-commerces, marketplaces e estabelecimentos físicos.
 
-Nesse contexto, fomos incumbidos de desenvolver um software desktop destinado a conceder acesso aos clientes da Trackcash a informações sobre suas vendas. O objetivo era proporcionar uma experiência intuitiva, fornecendo dados por meio de planilhas e dashboards, visando facilitar a formulação de estratégias financeiras mais precisas e identificar eventuais gargalos ao final de cada ciclo de vendas.
+Nesse projeto, a Trackcash levantou a necessidade de que seus clientes tivessem acesso intuitivo e claro às informações sobre suas vendas. Fomos, então, incumbidos de desenvolver um software desktop para oferecer aos clientes da Trackcash uma visão estratégica e prática de seus dados de vendas. Esse software apresentaria informações detalhadas por meio de planilhas e dashboards, visando facilitar a formulação de estratégias financeiras mais precisas e identificar eventuais gargalos ao final de cada ciclo de vendas.
 
-Um dos aspectos fundamentais deste projeto residia no sistema de login e cadastro. Isso porque, durante o processo de registro, era importante incluir detalhes específicos, como o nome do canal de vendas (exemplo: Mercado Livre, Americanas), o tipo de canal (como Marketplace ou meio de pagamentos) e o padrão de autenticação utilizado (seja por meio de usuário/senha ou Token). Para cumprir esses requisitos, dedicamos especial atenção à modelagem e desenvolvimento do banco de dados, assegurando que todas as demandas da Trackcash fossem atendidas de maneira eficaz.
+Um dos aspectos fundamentais deste projeto foi o sistema de login e cadastro. Durante o processo de registro, era necessário incluir detalhes específicos, como o nome do canal de vendas (ex.: Mercado Livre, Americanas), o tipo de canal (como marketplace ou meio de pagamento) e o padrão de autenticação utilizado (usuário/senha ou token). Para atender a esses requisitos, dedicamos atenção especial à modelagem e ao desenvolvimento do banco de dados, garantindo que todas as necessidades da Trackcash fossem atendidas de maneira eficaz e segura.
 
-Observação: É importante ressaltar que, neste projeto, os clientes também são identificados como canais.
+Observação: é importante ressaltar que, neste projeto, os clientes da Trackcash também são identificados como canais de venda.
 
 <br>
   <h4 align="center"><br><a href="https://www.youtube.com/watch?v=UtJIXQ2DS-o">Youtube (Qualidade melhor)</a></h4>
@@ -255,6 +257,8 @@ Por fim, também desenvolvi a modelagem do banco de dados fazendo o levantamento
 ### Em 2023-2
 No segundo semestre de 2023, iniciamos um projeto em parceria com a Greenneat, uma plataforma dedicada à criar economia circular, com foco na coleta e reciclagem de óleo de cozinha. 
 
+A Greenneat apresentou a necessidade de um sistema que permitisse que empresas e pessoas físicas registrassem o óleo de cozinha disponível para reciclagem, facilitando a visualização por cooperativas que poderiam organizar a coleta diretamente na residência ou estabelecimento. Esse óleo, uma vez coletado, seria então transacionado entre as cooperativas e a Greenneat, que o transformaria em produtos de limpeza sustentáveis.
+
 Desenvolvemos uma plataforma online que permite aos parceiros da empresa coletarem óleo de estabelecimentos e revendê-lo à Greenneat, recebendo créditos em troca. Esses créditos podem ser usados para adquirir saneantes fabricados pela Greenneat e fornecidos em seu site. Os parceiros tambem têm acesso a um painel para acompanhar suas transações, enquanto os estabelecimentos monitoram suas compras e saldos de crédito. O administrador controla a plataforma e tem acesso a um dashboard com informações relevantes, como desempenho de descarte e participação dos parceiros e estabelecimentos na economia circular.
 
   <p align="center">
@@ -308,7 +312,7 @@ Também participei da equipe de desenvolvimento, ficando responsável pela model
 * Resiliência - Enfrentar mudanças nos requisitos do cliente e suas constantes ausências durante o desenvolvimento do projeto exigiu uma resiliência significativa da minha parte.
 
 ### Em 2024-1
-No primeiro semestre de 2024, foi estabelecido uma parceria com a Oracle Academy, com o objetivo de desenvolver um aplicativo dedicado ao gerenciamento dos seus parceiros corporativos.
+No primeiro semestre de 2024, estabelecemos uma parceria com a Oracle Academy, que identificou a necessidade de um aplicativo dedicado ao gerenciamento de seus parceiros corporativos. A solução proposta visa oferecer aos parceiros uma plataforma para acompanhar métricas detalhadas e atualizadas sobre o progresso de suas colaborações, permitindo-lhes monitorar a evolução e o impacto de suas parcerias de maneira mais eficiente e estratégica.
 
 O propósito principal deste aplicativo é unificar e automatizar as atividades relacionadas à gestão de parcerias de negócios. Onde as principais funcionalidades do sistema incluem o cadastro e atualização de parceiros com informações detalhadas sobre sua expertise, bem como o acompanhamento do desenvolvimento de conhecimento dos parceiros para remuneração. Além disso, o sistema oferece a extração de relatórios relevantes sobre o desempenho dos parceiros, facilitando a análise e tomada de decisões estratégicas. 
 
