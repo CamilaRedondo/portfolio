@@ -396,6 +396,7 @@ A dificuldade do setor de marketing em processar grandes volumes de dados de cli
 Para resolver esses problemas, no segundo semestre de 2024, estabelecemos uma parceria estratégica com a empresa Dom Rock, especializada em inteligência artificial para a tomada de decisões em negócios. Eles nos apresentaram uma proposta de desenvolvimento de um chatbot voltado para o setor de marketing, com o objetivo de otimizar a análise de dados, personalizar campanhas e identificar tendências e oportunidades de crescimento a partir de dados de clientes. Para maximizar a precisão e a relevância das respostas do chatbot, adotamos a arquitetura RAG (Retrieval-Augmented Generation), permitindo que o modelo acesse dados vetorizados para enriquecer suas respostas.
 
 <br>
+
 Para mais informações:
 [GITHUB](https://github.com/CamilaRedondo/API-FATEC-6-SEM)
 
