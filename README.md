@@ -38,7 +38,7 @@ Considerando essa problemática de encontrar e acompanhar vagas de emprego atual
   <p align="center">
     <img src="/readme/2022-1/gif_localizacao_pagweb.gif" width="60%" />
 </p>
-
+<details>
 <br>
   <h4 align="center"><br><a href="https://youtu.be/MpbO26x4V6s">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
@@ -68,6 +68,7 @@ Considerando essa problemática de encontrar e acompanhar vagas de emprego atual
     <img src="/readme/2022-1/raspagem.gif" width="60%" />
 </p>
 <br>
+</details>
 
 Para mais informações:
 [Github](https://github.com/CamilaRedondo/API-FATEC)
@@ -122,7 +123,7 @@ Um aspecto essencial desse projeto foi a criação de um sistema de login e cada
   <p align="center">
     <img src="/readme/2022-2/Cadastro_canais_adm.gif" width="60%" />
 </p>
-
+<details>
 <br>
   <h4 align="center"><br><a href="https://www.youtube.com/watch?v=Ayp1KyIrV_s">Youtube (Qualidade melhor)</a></h4>
   <p align="center">
@@ -134,7 +135,7 @@ Um aspecto essencial desse projeto foi a criação de um sistema de login e cada
   <p align="center">
     <img src="/readme/2022-2/Config_canais_token.gif" width="60%" />
 </p>
-<br>
+</details>
 
 Para mais informações:
 [GITHUB](https://github.com/CamilaRedondo/API-FATEC-2-SEM)
@@ -258,11 +259,11 @@ Desenvolvemos uma plataforma online que permite aos parceiros da empresa coletar
   <p align="center">
     <img src="/readme/2023-2/cadastro.gif" width="65%" />
   </p>
-  
-  <br>
+  <details>
   <p align="center">
     <img src="/readme/2023-2/login_recuperacaoSenha.gif" width="65%" />
   </p>
+  </details>
 
 Para mais informações:
 [GITHUB](https://github.com/CamilaRedondo/API-FATEC-4-SEM)
@@ -325,9 +326,7 @@ Para garantir uma gestão eficiente, o app também conta com um módulo administ
     <br>
     <a href="https://youtube.com/shorts/GcA-2Alec6g?feature=share">Link para uma melhor resolução</a>
 </p>
-
-  <br>
-
+<details>
  <h3 align="center">Adicionar parceiro.</h3>
 
 <p align="center">
@@ -345,8 +344,8 @@ Para garantir uma gestão eficiente, o app também conta com um módulo administ
     <br>
     <a href="https://youtube.com/shorts/E7BV9YUvAck?feature=share">Link para uma melhor resolução</a>
 </p>
+</details>
 
-   <br>
 Para mais informações:
 [GITHUB](https://github.com/CamilaRedondo/API-FATEC-5-SEM)
 
