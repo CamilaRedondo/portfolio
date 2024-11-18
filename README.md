@@ -383,7 +383,7 @@ No decorrer deste projeto participei da equipe de desenvolvimento, ficando respo
 * React Native - Possuo autonomia para desenvolver interfaces móveis nativas usando React Native, implementando telas, integrando componentes reutilizáveis e criando uma navegação intuitiva.
 * NodeJS - Tenho autonomia para desenvolver o backend utilizando NodeJS, mais especificamente criando rotas, endpoints além da interação com o banco de dados.
 * Figma - Tenho habilidade em transformar requisitos funcionais em interfaces claras e funcionais.
-* MongoDB - Possuo autonomia para realizar modelagem de dados para bancos não relacionais e habilidades em otimizar queries e operações de agregação para melhorar o tempo de resposta.
+* MongoDB - Possuo autonomia para realizar queries e habilidades em  operações de agregação para melhorar o tempo de resposta.
 
 #### Soft Skills
 * Comunicação - Ao fazer parte da equipe de desenvolvimento, refinei minhas habilidades de comunicação ao interagir com meus colegas e compartilhar minhas ideias durante as reuniões diárias. Além disso, ao realizar o code review, contribuí para as discussões sobre as melhores abordagens para implementar funcionalidades.
@@ -411,16 +411,16 @@ Para mais informações:
 #### Contribuições Pessoais
 Atuei como Scrum Master no projeto, coordenando as três sprints planejadas e garantindo que as atividades fossem devidamente organizadas e monitoradas no Jira. Em estreita colaboração com o Product Owner (P.O.), priorizamos as tarefas essenciais, assegurando o alinhamento constante do escopo com as expectativas do cliente.
 
-Embora não tenha atuado diretamente na equipe de desenvolvimento, aprofundei meus conhecimentos em técnicas avançadas de Processamento de Linguagem Natural (PLN), incluindo estratégias de chunking e embedding, com o objetivo de otimizar o processamento das perguntas e aprimorar a precisão das respostas do chatbot. Isso me permitiu visualizar e organizar de maneira mais eficiente o processo de desenvolvimento.
+Embora não tenha atuado diretamente na equipe de desenvolvimento, aprofundei meus conhecimentos téoricos para auxiliar na técnicas de Processamento de Linguagem Natural (PLN), incluindo estratégias de chunking e embedding, com o objetivo de otimizar o processamento das perguntas e aprimorar a precisão das respostas do chatbot. Isso me permitiu visualizar e organizar de maneira mais eficiente o processo de desenvolvimento.
 
 Com esse conhecimento, pude também oferecer uma orientação mais assertiva à equipe, especialmente na resolução de impedimentos, garantindo que as atividades seguissem conforme o planejamento e sem maiores obstáculos.
 <br>
 
 #### Hard Skills
 * Python – Tenho experiência em Python, utilizado nesse projeto para desenvolver soluções de IA, especialmente no campo do Processamento de Linguagem Natural (PLN). Implemento técnicas como tokenization, stemming, lemmatization, além de aplicar chunking para segmentar e estruturar informações dentro de textos complexos. Também utilizo embeddings, como Sentece Transformers, para transformar palavras e frases em vetores numéricos, permitindo que o modelo entenda relações semânticas e contextuais entre os dados textuais.
-* ChromaDB – Tenho autonomia na gestão de bancos de dados vetoriais, especificamente utilizando ChromaDB. Isso envolve a criação e manutenção de bases de dados vetoriais para armazenar representações numéricas de informações (como textos ou interações do usuário). Com o uso de operações de consulta vetorial, sou capaz de realizar buscas rápidas e relevantes, melhorando a eficiência de sistemas de recomendação e respostas de chatbots.
-* LangChain – Com experiência no LangChain, tenho a capacidade de configurar e orquestrar pipelines de IA de forma eficiente. Integro Large Language Models (LLMs) com bancos de dados vetoriais como ChromaDB, criando fluxos automatizados de recuperação e processamento de informações. Através de LangChain, consigo personalizar o processo de consulta, integrar diferentes fontes de dados e facilitar a comunicação entre o modelo de linguagem e os sistemas de backend, o que resulta em uma solução robusta para a automatização de processos de consulta e resposta em chatbots e sistemas de IA.
-* LLM (LLaMA) – Tenho experiência na configuração e ajuste de LLMs, como o LLaMA, para adaptar grandes modelos de linguagem ao contexto específico de um projeto. 
+* ChromaDB – Tenho conhecimento sobre bancos de dados vetoriais, especificamente ChromaDB.
+* LangChain – Com conhecimento sobre LangChain, tenho a capacidade de configurar e orquestrar pipelines de IA de forma eficiente. Integro Large Language Models (LLMs) com bancos de dados vetoriais como ChromaDB, criando fluxos automatizados de recuperação e processamento de informações. Através de LangChain, consigo personalizar o processo de consulta, integrar diferentes fontes de dados e facilitar a comunicação entre o modelo de linguagem e os sistemas de backend, o que resulta em uma solução robusta para a automatização de processos de consulta e resposta em chatbots e sistemas de IA.
+* LLM (LLaMA) – Pouca experiência na configuração e ajuste de LLMs, como o LLaMA, para adaptar grandes modelos de linguagem ao contexto específico de um projeto. 
 * Figma – Tenho autonomia na utilização do Figma para desenvolver e prototipar interfaces de usuário, priorizando a experiência do usuário (UX) e o design visual (UI). Tenho autonomia para criar layouts responsivos, desde o wireframe até o design final, sempre buscando uma navegação intuitiva e agradável.
 * Vue.js – Sou capacitado no desenvolvimento frontend com Vue.js, utilizando esse framework JavaScript para criar interfaces de usuário dinâmicas e altamente responsivas. Desenvolvo componentes reutilizáveis, gerencio estados e integro com o backend de forma eficiente, garantindo uma experiência de usuário fluida e sem interrupções.
 
